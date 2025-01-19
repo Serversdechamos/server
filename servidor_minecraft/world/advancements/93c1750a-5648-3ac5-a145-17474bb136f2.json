@@ -33,6 +33,7 @@
       "minecraft:forest": "2025-01-19 02:39:04 +0000",
       "minecraft:frozen_ocean": "2025-01-19 23:24:19 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-19 23:25:10 +0000",
+      "minecraft:snowy_beach": "2025-01-19 23:32:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 03:04:01 +0000",
       "minecraft:deep_dark": "2025-01-19 22:56:09 +0000",
       "minecraft:meadow": "2025-01-19 02:19:00 +0000",
@@ -301,13 +302,15 @@
       "sweet_berries": "2025-01-19 03:09:49 +0000",
       "cooked_beef": "2025-01-19 02:34:38 +0000",
       "beef": "2025-01-19 02:45:34 +0000",
+      "baked_potato": "2025-01-19 23:27:26 +0000",
       "porkchop": "2025-01-19 22:47:46 +0000",
       "potato": "2025-01-19 23:25:05 +0000",
       "mutton": "2025-01-19 02:34:32 +0000",
       "bread": "2025-01-19 03:19:24 +0000",
       "salmon": "2025-01-19 23:17:35 +0000",
       "cooked_rabbit": "2025-01-19 02:38:35 +0000",
-      "cooked_chicken": "2025-01-19 03:03:26 +0000"
+      "cooked_chicken": "2025-01-19 03:03:26 +0000",
+      "carrot": "2025-01-19 23:28:21 +0000"
     },
     "done": false
   },
@@ -1406,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
@@ -1433,6 +1442,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
     },
     "done": true
   },
@@ -1490,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
@@ -1499,6 +1520,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
     },
     "done": true
   },
