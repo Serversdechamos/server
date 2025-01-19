@@ -27,9 +27,12 @@
       "minecraft:river": "2025-01-19 02:39:05 +0000",
       "minecraft:snowy_plains": "2025-01-19 02:22:58 +0000",
       "minecraft:stony_shore": "2025-01-19 02:22:14 +0000",
+      "minecraft:dripstone_caves": "2025-01-19 22:54:42 +0000",
+      "minecraft:snowy_taiga": "2025-01-19 22:51:52 +0000",
       "minecraft:cold_ocean": "2025-01-19 03:15:33 +0000",
       "minecraft:forest": "2025-01-19 02:39:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 03:04:01 +0000",
+      "minecraft:deep_dark": "2025-01-19 22:56:09 +0000",
       "minecraft:meadow": "2025-01-19 02:19:00 +0000",
       "minecraft:plains": "2025-01-19 02:18:48 +0000"
     },
@@ -296,6 +299,7 @@
       "sweet_berries": "2025-01-19 03:09:49 +0000",
       "cooked_beef": "2025-01-19 02:34:38 +0000",
       "beef": "2025-01-19 02:45:34 +0000",
+      "porkchop": "2025-01-19 22:47:46 +0000",
       "mutton": "2025-01-19 02:34:32 +0000",
       "bread": "2025-01-19 03:19:24 +0000",
       "cooked_rabbit": "2025-01-19 02:38:35 +0000",
@@ -491,6 +495,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-19 22:54:52 +0000",
       "minecraft:spider": "2025-01-19 22:45:39 +0000",
       "minecraft:stray": "2025-01-19 02:38:08 +0000",
       "minecraft:zombie": "2025-01-19 03:28:10 +0000"
@@ -1055,9 +1060,33 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-19 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-19 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-19 22:54:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-19 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-19 22:56:35 +0000"
     },
     "done": true
   },
@@ -1073,9 +1102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-19 23:01:34 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_string": {
     "criteria": {
       "has_string": "2025-01-19 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-01-19 23:01:34 +0000"
     },
     "done": true
   },
@@ -1085,9 +1126,45 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-19 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-19 22:54:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-19 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-01-19 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-19 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-19 22:58:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_grizzly_bear": {
+    "criteria": {
+      "tame": "2025-01-19 22:49:35 +0000"
     },
     "done": true
   },
@@ -1097,9 +1174,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_bones": {
+    "criteria": {
+      "has_bones": "2025-01-19 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-19 22:54:19 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-19 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-19 22:56:35 +0000"
     },
     "done": true
   },

@@ -40,10 +40,12 @@
       "minecraft:snowy_plains": "2025-01-19 01:51:45 +0000",
       "minecraft:stony_shore": "2025-01-19 02:16:58 +0000",
       "minecraft:snowy_taiga": "2025-01-19 01:58:42 +0000",
+      "minecraft:dripstone_caves": "2025-01-19 22:52:09 +0000",
       "minecraft:grove": "2025-01-19 01:52:03 +0000",
       "minecraft:cold_ocean": "2025-01-19 03:12:43 +0000",
       "minecraft:forest": "2025-01-19 01:00:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 03:04:09 +0000",
+      "minecraft:deep_dark": "2025-01-19 22:56:27 +0000",
       "minecraft:meadow": "2025-01-19 00:59:55 +0000",
       "minecraft:plains": "2025-01-19 00:58:02 +0000"
     },
@@ -1838,9 +1840,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-19 22:55:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-19 22:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-19 22:55:48 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-19 23:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-19 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-01-19 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_feathers": {
+    "criteria": {
+      "has_feathers": "2025-01-19 23:04:56 +0000"
     },
     "done": true
   },
@@ -1853,6 +1891,42 @@
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-01-19 22:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-19 22:54:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-01-19 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-19 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-19 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-19 23:03:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-19 22:54:23 +0000"
     },
     "done": true
   },

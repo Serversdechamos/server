@@ -380,3 +380,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jan2025 22:49:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Best Friends Forever]
 [19Jan2025 22:49:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Arcturus!]
 [19Jan2025 22:50:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 22:52:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 22:54:45.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Not Today, Thank You]
+[19Jan2025 22:54:52.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
+[19Jan2025 22:55:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 22:55:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 22:55:42.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 22:56:28.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sneak 100]
+[19Jan2025 22:58:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was obliterated by a sonically-charged shriek
+[19Jan2025 22:58:22.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 22:58:27.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Sneak 100]
+[19Jan2025 22:58:54.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Warden
+[19Jan2025 22:59:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 22:59:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was obliterated by a sonically-charged shriek
+[19Jan2025 23:00:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 23:01:29.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Warden
+[19Jan2025 23:01:30.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sculk Cymbal]
+[19Jan2025 23:01:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Warden
+[19Jan2025 23:02:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Warden
+[19Jan2025 23:02:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[19Jan2025 23:02:50.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to bengy_999]
+[19Jan2025 23:03:01.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Amateur Archaeologist]
+[19Jan2025 23:05:26.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Isn't It Iron Pick]
+[19Jan2025 23:05:39.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 23:06:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Alex's Caves]
+[19Jan2025 23:07:16.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[19Jan2025 23:07:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[19Jan2025 23:07:21.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:39405] logged in with entity id 11160 at (-178.5265870380781, 115.0, -716.4801039466522)
+[19Jan2025 23:07:21.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[19Jan2025 23:07:21.998] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[19Jan2025 23:07:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
+[19Jan2025 23:07:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [It Belongs in a Museum]
+[19Jan2025 23:08:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[19Jan2025 23:09:02.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[19Jan2025 23:09:15.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[19Jan2025 23:09:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Not Today, Thank You]
+[19Jan2025 23:09:37.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 23:09:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Alex's Caves]
+[19Jan2025 23:10:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[19Jan2025 23:10:13.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[19Jan2025 23:10:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[19Jan2025 23:10:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 23:10:18.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 23:10:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
