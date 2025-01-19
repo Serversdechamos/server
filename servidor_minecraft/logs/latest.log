@@ -327,3 +327,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jan2025 22:09:30.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/251, l='ServerLevel[world]', x=-312.52, y=111.54, z=-551.06] died, message: 'Toolsmith was slain by Zombie'
 [19Jan2025 22:13:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [19Jan2025 22:15:02.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234, l='ServerLevel[world]', x=-352.34, y=64.00, z=-576.70] died, message: 'Unemployed was slain by Zombie'
+[19Jan2025 22:38:00.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:46741] logged in with entity id 1248 at (-271.1205160777628, 119.0, -653.9984260739595)
+[19Jan2025 22:38:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[19Jan2025 22:38:01.146] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[19Jan2025 22:38:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 22:38:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 22:38:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by MazeHero547
+[19Jan2025 22:39:01.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:57713] logged in with entity id 1405 at (-251.98029598082385, 121.0, -643.5138455966326)
+[19Jan2025 22:39:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[19Jan2025 22:39:01.518] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[19Jan2025 22:39:05.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -1.2044507654724441,0.24918707874468282,-10.002738364557104
+[19Jan2025 22:39:15.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 was kicked for floating too long!
+[19Jan2025 22:39:15.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[19Jan2025 22:39:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[19Jan2025 22:39:15.697] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 22:39:57.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e7506f[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:33107) lost connection: Disconnected
+[19Jan2025 22:40:25.172] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@779e1a9d[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:45759) lost connection: Disconnected
+[19Jan2025 22:40:29.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:55373] logged in with entity id 1712 at (-262.65207414411293, 120.17675927506424, -671.5455997173312)
+[19Jan2025 22:40:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[19Jan2025 22:40:29.859] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[19Jan2025 22:40:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by bengy_999
+[19Jan2025 22:41:05.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[19Jan2025 22:41:17.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 22:41:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:42:19.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 hit the ground too hard whilst trying to escape Overgrown Colossus
+[19Jan2025 22:42:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:43:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Overgrown Colossus
+[19Jan2025 22:43:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:43:15.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -9.69069744452571,-1.1661092609382138,2.6003222309116154
+[19Jan2025 22:43:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:43:26.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -9.971604092758412,0.49520087700592796,-1.0469455964467898
+[19Jan2025 22:43:29.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 10.178008707893866,0.41999998688697815,-0.4562922027236027
+[19Jan2025 22:43:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Overgrown Colossus
+[19Jan2025 22:43:42.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:43:45.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 5.8030186116023685,-2.572716202600404,-7.899899388521362
+[19Jan2025 22:43:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:44:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 22:44:10.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -9.710685690049246,1.495200877005928,2.5128018399325356
+[19Jan2025 22:44:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Overgrown Colossus
+[19Jan2025 22:44:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has completed the challenge [The Mossy Beast]
+[19Jan2025 22:44:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by bengy_999
+[19Jan2025 22:44:55.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 22:45:45.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[19Jan2025 22:45:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[19Jan2025 22:46:18.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:56603] logged in with entity id 5441 at (-252.9730572212165, 121.0, -644.344296702157)
+[19Jan2025 22:46:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[19Jan2025 22:46:18.158] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[19Jan2025 22:46:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
+[19Jan2025 22:47:55.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [And I'm All Out of Gum]
+[19Jan2025 22:48:30.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by aarincha_20160
+[19Jan2025 22:48:44.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
+[19Jan2025 22:49:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Best Friends Forever]
+[19Jan2025 22:49:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Arcturus!]
+[19Jan2025 22:50:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]

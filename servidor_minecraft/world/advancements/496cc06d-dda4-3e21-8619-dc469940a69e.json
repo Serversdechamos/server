@@ -1838,6 +1838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-19 22:40:02 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_overgrown_colossus": {
     "criteria": {
       "colossus": "2025-01-19 22:06:38 +0000"
@@ -1859,6 +1865,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-19 22:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-19 22:40:02 +0000"
     },
     "done": true
   },
