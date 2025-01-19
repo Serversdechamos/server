@@ -1852,6 +1852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-19 23:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-19 22:55:48 +0000"
@@ -1870,9 +1876,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-19 23:06:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/shot_gum": {
     "criteria": {
       "shot_gum": "2025-01-19 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-19 23:07:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/amethyst_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
     },
     "done": true
   },
@@ -1888,6 +1918,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-01-19 22:13:34 +0000"
@@ -1900,9 +1942,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-19 23:06:53 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
       "killed": "2025-01-19 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-19 23:06:53 +0000"
     },
     "done": true
   },
@@ -1918,9 +1972,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-19 23:07:49 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-19 23:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-19 23:11:11 +0000"
     },
     "done": true
   },
