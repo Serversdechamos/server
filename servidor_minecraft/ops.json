@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "496cc06d-dda4-3e21-8619-dc469940a69e",
+    "name": "MazeHero547",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
