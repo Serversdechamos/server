@@ -452,3 +452,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jan2025 23:20:57.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Flying is not enabled on this server
 [19Jan2025 23:20:57.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
 [19Jan2025 23:20:57.572] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 23:21:07.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:60925] logged in with entity id 16491 at (-208.7055567860266, 64.1707870772188, -763.9963812452216)
+[19Jan2025 23:21:07.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[19Jan2025 23:21:07.346] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[19Jan2025 23:21:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 23:21:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[19Jan2025 23:21:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to bengy_999]
+[19Jan2025 23:23:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[19Jan2025 23:23:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 23:25:33.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 tried to swim in lava
+[19Jan2025 23:26:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[19Jan2025 23:29:51.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[19Jan2025 23:29:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[19Jan2025 23:29:53.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19Jan2025 23:29:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[19Jan2025 23:29:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
