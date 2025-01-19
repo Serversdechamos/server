@@ -325,3 +325,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jan2025 22:05:03.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [19Jan2025 22:06:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The Mossy Beast]
 [19Jan2025 22:09:30.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/251, l='ServerLevel[world]', x=-312.52, y=111.54, z=-551.06] died, message: 'Toolsmith was slain by Zombie'
+[19Jan2025 22:13:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[19Jan2025 22:15:02.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234, l='ServerLevel[world]', x=-352.34, y=64.00, z=-576.70] died, message: 'Unemployed was slain by Zombie'
