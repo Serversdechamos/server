@@ -136,3 +136,31 @@
 [20Jan2025 01:42:32.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> voy a la dungeon
 [20Jan2025 01:42:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> a ok
 [20Jan2025 01:42:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> como tienes tantos corazones
+[20Jan2025 01:43:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> si le das a la ''o'' abres la pantalla de las stadisticas
+[20Jan2025 01:43:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> y puedes comprar puntos con xp
+[20Jan2025 01:44:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ahi compre skils para tener mas vida
+[20Jan2025 01:44:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a y
+[20Jan2025 01:44:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> en la dungeon
+[20Jan2025 01:44:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> hay un mob que te wanchotea
+[20Jan2025 01:44:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> es como un golem pero tiene un spawner arriba
+[20Jan2025 01:45:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> y te quita 20 puntos
+[20Jan2025 01:45:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> aaa ok
+[20Jan2025 01:46:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> encantas te tu armadura con espinas
+[20Jan2025 01:46:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> no
+[20Jan2025 01:46:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> me la solto un zombie
+[20Jan2025 01:46:56.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> porque cuando te pego me ase daño
+[20Jan2025 01:47:03.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 9.664975939078573,-2.681558398058314,0.8272914093851114
+[20Jan2025 01:47:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> si tiene spinas
+[20Jan2025 01:47:09.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 was kicked for floating too long!
+[20Jan2025 01:47:09.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Flying is not enabled on this server
+[20Jan2025 01:47:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 01:47:14.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:38451] logged in with entity id 59228 at (-176.78959391698174, 112.79673560066871, -696.8165473507476)
+[20Jan2025 01:47:14.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 01:47:14.507] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 01:49:33.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 was kicked for floating too long!
+[20Jan2025 01:49:33.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Flying is not enabled on this server
+[20Jan2025 01:49:33.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 01:49:59.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ef40c6d[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:51147) lost connection: Disconnected
+[20Jan2025 01:50:03.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:53797] logged in with entity id 59719 at (-178.70072051146332, 112.936654946153, -696.0187282352616)
+[20Jan2025 01:50:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 01:50:03.872] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
