@@ -164,3 +164,33 @@
 [20Jan2025 01:50:03.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:53797] logged in with entity id 59719 at (-178.70072051146332, 112.936654946153, -696.0187282352616)
 [20Jan2025 01:50:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
 [20Jan2025 01:50:03.872] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 01:53:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> que haces
+[20Jan2025 01:55:24.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Lorem Ipsum]
+[20Jan2025 01:55:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> termine
+[20Jan2025 01:55:40.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> estaba hacindo un mapa de cueva
+[20Jan2025 01:55:56.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu como se llaman las lamparas que se prenden con palancas
+[20Jan2025 01:55:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Journey Begins]
+[20Jan2025 01:56:01.823] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 3665 -56 301 in 1s
+[20Jan2025 01:57:34.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[20Jan2025 01:57:34.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 01:58:07.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3dd95036[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:33271) lost connection: Disconnected
+[20Jan2025 01:58:07.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Jan2025 01:58:15.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Once Upon a Cave]
+[20Jan2025 01:58:17.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Jan2025 01:58:37.061] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -2363 -56 -3827 in 1s
+[20Jan2025 01:58:52.979] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@133adcef[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:40631) lost connection: Disconnected
+[20Jan2025 01:58:59.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:50713] logged in with entity id 60987 at (-186.69999998807907, 112.0, -697.3602477388281)
+[20Jan2025 01:58:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 01:58:59.901] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 01:59:14.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ya vengo que voy a comer
+[20Jan2025 01:59:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> o bueno
+[20Jan2025 01:59:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ya me dijeron que apage
+[20Jan2025 01:59:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ok
+[20Jan2025 01:59:59.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> asi que chau
+[20Jan2025 02:00:14.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[20Jan2025 02:00:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 02:00:18.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[20Jan2025 02:00:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[20Jan2025 02:00:23.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:35903] logged in with entity id 61155 at (-170.18170667307987, 112.0, -704.3563834758673)
+[20Jan2025 02:00:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 02:00:23.526] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
