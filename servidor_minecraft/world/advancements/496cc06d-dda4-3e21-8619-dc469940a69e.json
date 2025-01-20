@@ -1841,6 +1841,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-20 00:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-19 22:55:48 +0000"
@@ -1871,9 +1877,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/iron_nugget": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-20 01:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-20 00:02:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-20 01:06:32 +0000"
     },
     "done": true
   },
@@ -1898,6 +1916,30 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-19 22:40:02 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-20 01:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-20 01:02:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-20 01:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
     },
     "done": true
   },
@@ -1955,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-20 00:46:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/shot_gum": {
     "criteria": {
       "shot_gum": "2025-01-19 22:47:55 +0000"
@@ -1973,15 +2021,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-20 01:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-19 23:18:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-20 01:06:32 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_feathers": {
     "criteria": {
       "has_feathers": "2025-01-19 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
     },
     "done": true
   },
@@ -2009,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-19 23:18:49 +0000"
@@ -2018,6 +2090,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-01-19 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-20 00:54:36 +0000"
     },
     "done": true
   },
@@ -2039,6 +2117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-19 23:33:38 +0000"
@@ -2057,9 +2141,33 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-20 01:14:06 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-01-19 23:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-20 00:56:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_hay_block": {
+    "criteria": {
+      "has_hay_block": "2025-01-20 01:28:24 +0000"
     },
     "done": true
   },
@@ -2093,9 +2201,27 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-20 00:56:35 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/grass_block": {
     "criteria": {
       "has_grass_block": "2025-01-19 23:47:25 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-20 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-20 01:06:32 +0000"
     },
     "done": true
   },
@@ -2135,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-20 01:28:24 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-19 22:54:23 +0000"
@@ -2159,15 +2291,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-20 01:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-19 22:13:34 +0000"
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-20 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-20 00:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-19 23:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-20 01:06:32 +0000"
     },
     "done": true
   },
@@ -2186,6 +2342,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-19 23:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-20 01:17:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-01-20 01:17:10 +0000"
     },
     "done": true
   },
