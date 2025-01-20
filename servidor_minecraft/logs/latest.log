@@ -1,2 +1,25 @@
 [20Jan2025 00:00:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [20Jan2025 00:00:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was burnt to a crisp whilst fighting Skeleton
+[20Jan2025 00:02:19.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Isn't It Iron Pick]
+[20Jan2025 00:02:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Seedy Place]
+[20Jan2025 00:03:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 tried to swim in lava
+[20Jan2025 00:04:20.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tienes madera
+[20Jan2025 00:04:32.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ya me la gaste
+[20Jan2025 00:04:42.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[20Jan2025 00:04:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 00:04:42.718] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jan2025 00:05:19.967] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9859cd2[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:46007) lost connection: Disconnected
+[20Jan2025 00:05:29.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:41047] logged in with entity id 33946 at (-179.38500490297437, 112.0, -718.8594562023874)
+[20Jan2025 00:05:29.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 00:05:29.607] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 00:05:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 fell from a high place
+[20Jan2025 00:06:10.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> el diablo
+[20Jan2025 00:08:00.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> on tas
+[20Jan2025 00:08:08.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> consigiendo madera
+[20Jan2025 00:09:06.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: The difficulty has been set to Hard]
+[20Jan2025 00:10:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[20Jan2025 00:10:57.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 2.466367877458083,4.832203353366751,8.622751633237499
+[20Jan2025 00:11:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> on tas horita
+[20Jan2025 00:11:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> en la base
+[20Jan2025 00:11:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> a ok
+[20Jan2025 00:12:07.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> cuanta madera tienes
