@@ -109,3 +109,30 @@
 [20Jan2025 01:31:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
 [20Jan2025 01:31:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tp
 [20Jan2025 01:31:29.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tu ami
+[20Jan2025 01:33:55.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[20Jan2025 01:33:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 01:34:06.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:42081] logged in with entity id 56940 at (-170.3520732456803, 111.0, -699.276500239174)
+[20Jan2025 01:34:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 01:34:06.591] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 01:35:52.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> e vuelto
+[20Jan2025 01:36:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tp tu ami
+[20Jan2025 01:36:10.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[20Jan2025 01:36:20.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tienes pala
+[20Jan2025 01:36:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> no
+[20Jan2025 01:36:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> y tierra
+[20Jan2025 01:36:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> tampoco
+[20Jan2025 01:40:48.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> e vuelto
+[20Jan2025 01:40:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ok
+[20Jan2025 01:40:58.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> consegui ganado
+[20Jan2025 01:41:08.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> si viste?
+[20Jan2025 01:41:22.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[20Jan2025 01:41:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[20Jan2025 01:41:27.569] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29530958[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:37619) lost connection: Disconnected
+[20Jan2025 01:41:38.119] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e4cefb1[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:60449) lost connection: Disconnected
+[20Jan2025 01:41:42.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:44211] logged in with entity id 58480 at (-181.3216159353668, 111.0, -697.6999999880791)
+[20Jan2025 01:41:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[20Jan2025 01:41:42.958] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[20Jan2025 01:42:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> me ayudas
+[20Jan2025 01:42:32.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> voy a la dungeon
+[20Jan2025 01:42:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> a ok
+[20Jan2025 01:42:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> como tienes tantos corazones
