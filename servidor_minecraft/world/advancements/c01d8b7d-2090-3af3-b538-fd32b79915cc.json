@@ -1453,6 +1453,7 @@
       "minecraft:spider": "2025-01-19 03:25:02 +0000",
       "minecraft:creeper": "2025-01-19 23:08:44 +0000",
       "minecraft:stray": "2025-01-19 22:48:00 +0000",
+      "minecraft:enderman": "2025-01-20 00:16:00 +0000",
       "minecraft:zombie": "2025-01-19 03:06:50 +0000"
     },
     "done": false
@@ -1964,6 +1965,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-20 00:02:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-01-20 00:16:01 +0000"
     },
     "done": true
   },

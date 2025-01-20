@@ -1883,6 +1883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-20 00:32:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-19 23:56:14 +0000"
@@ -1931,6 +1937,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_mushrooms": {
+    "criteria": {
+      "has_mushrooms": "2025-01-20 00:32:04 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/soul_silk": {
     "criteria": {
       "has_soul_cloth": "2025-01-19 23:35:58 +0000"
@@ -1973,9 +1985,27 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-01-20 00:41:29 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_overgrown_colossus": {
     "criteria": {
       "colossus": "2025-01-19 22:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-20 00:23:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-20 00:32:04 +0000"
     },
     "done": true
   },
@@ -2117,6 +2147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-20 00:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-19 23:33:38 +0000"
@@ -2150,6 +2186,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-19 23:18:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-20 00:32:05 +0000"
     },
     "done": true
   },
