@@ -3678,6 +3678,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/moose_ribs": {
+    "criteria": {
+      "has_moose_ribs": "2025-01-21 23:22:51 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/misc/crafting/primordial_core": {
     "criteria": {
       "has_primordial_core": "2025-01-21 22:54:46 +0000"

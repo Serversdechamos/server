@@ -358,3 +358,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 23:15:38.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [21Jan2025 23:17:54.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [21Jan2025 23:18:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 23:21:30.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11922, l='ServerLevel[world]', x=-300.17, y=90.00, z=-497.52] died, message: 'Farmer hit the ground too hard'
+[21Jan2025 23:22:28.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/11898, l='ServerLevel[world]', x=-294.70, y=110.00, z=-533.03] died, message: 'Mason was shredded to ribbons'
+[21Jan2025 23:23:23.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/13197, l='ServerLevel[world]', x=-310.51, y=117.00, z=-554.70] died, message: 'Toolsmith was shredded to ribbons'
+[21Jan2025 23:25:55.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 23:26:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 23:27:44.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[21Jan2025 23:27:44.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
