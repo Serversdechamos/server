@@ -35,7 +35,9 @@
       "minecraft:taiga": "2025-01-19 02:52:16 +0000",
       "minecraft:frozen_river": "2025-01-19 02:03:13 +0000",
       "minecraft:birch_forest": "2025-01-19 03:06:43 +0000",
+      "minecraft:bamboo_jungle": "2025-01-21 16:31:48 +0000",
       "minecraft:beach": "2025-01-19 03:07:53 +0000",
+      "minecraft:sparse_jungle": "2025-01-21 16:25:41 +0000",
       "minecraft:river": "2025-01-19 02:20:45 +0000",
       "minecraft:snowy_plains": "2025-01-19 01:51:45 +0000",
       "minecraft:stony_shore": "2025-01-19 02:16:58 +0000",
@@ -44,6 +46,9 @@
       "minecraft:grove": "2025-01-19 01:52:03 +0000",
       "minecraft:cold_ocean": "2025-01-19 03:12:43 +0000",
       "minecraft:forest": "2025-01-19 01:00:14 +0000",
+      "minecraft:jungle": "2025-01-21 16:27:00 +0000",
+      "minecraft:ocean": "2025-01-21 16:14:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-21 16:04:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 03:04:09 +0000",
       "minecraft:deep_dark": "2025-01-19 22:56:27 +0000",
       "minecraft:meadow": "2025-01-19 00:59:55 +0000",
@@ -737,13 +742,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-21 16:37:55 +0000",
       "minecraft:skeleton": "2025-01-19 01:12:31 +0000",
+      "minecraft:ravager": "2025-01-21 16:40:02 +0000",
+      "minecraft:ghast": "2025-01-21 15:04:30 +0000",
+      "minecraft:vindicator": "2025-01-21 16:38:01 +0000",
       "minecraft:spider": "2025-01-19 01:13:09 +0000",
       "minecraft:creeper": "2025-01-19 22:13:33 +0000",
+      "minecraft:evoker": "2025-01-21 16:49:50 +0000",
+      "minecraft:witch": "2025-01-21 16:40:33 +0000",
       "minecraft:cave_spider": "2025-01-19 23:19:32 +0000",
       "minecraft:stray": "2025-01-19 02:17:56 +0000",
       "minecraft:enderman": "2025-01-21 00:34:40 +0000",
-      "minecraft:zombie": "2025-01-19 01:40:20 +0000"
+      "minecraft:vex": "2025-01-21 16:49:54 +0000",
+      "minecraft:zombie": "2025-01-19 01:40:20 +0000",
+      "minecraft:zombie_villager": "2025-01-21 13:34:43 +0000"
     },
     "done": false
   },
@@ -1021,9 +1034,10 @@
     "criteria": {
       "has_raw_beef": "2025-01-19 01:40:51 +0000",
       "has_raw_mutton": "2025-01-19 01:41:14 +0000",
-      "has_raw_porkchop": "2025-01-19 03:19:27 +0000"
+      "has_raw_porkchop": "2025-01-19 03:19:27 +0000",
+      "has_raw_chicken": "2025-01-21 13:33:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomancy:biomancy/root": {
     "criteria": {
@@ -1070,6 +1084,7 @@
       "pumpkin_pie": "2025-01-19 02:16:24 +0000",
       "mutton": "2025-01-19 02:21:23 +0000",
       "rotten_flesh": "2025-01-19 01:41:06 +0000",
+      "golden_carrot": "2025-01-21 14:24:05 +0000",
       "cooked_rabbit": "2025-01-19 02:35:55 +0000",
       "carrot": "2025-01-19 03:11:41 +0000"
     },
@@ -2439,7 +2454,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-01-21 00:45:39 +0000"
+      "minecraft:soul_sand_valley": "2025-01-21 00:45:39 +0000",
+      "minecraft:nether_wastes": "2025-01-21 14:46:11 +0000",
+      "minecraft:basalt_deltas": "2025-01-21 15:02:23 +0000"
     },
     "done": false
   },
@@ -2758,6 +2775,624 @@
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-01-21 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-21 13:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-21 13:33:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-21 13:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-21 13:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-21 13:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-21 13:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-21 13:38:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-21 13:43:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-21 14:01:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-21 14:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-21 14:07:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-01-21 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-21 14:48:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-01-21 14:50:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-01-21 14:52:17 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-01-21 14:58:46 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-01-21 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-01-21 15:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-21 15:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-21 15:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-21 15:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-21 15:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-21 15:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-21 15:15:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-01-21 15:31:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/piglin_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-21 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/player_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-21 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-21 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-21 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 15:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 15:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 15:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-21 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-21 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-21 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-21 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-01-21 15:50:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-01-21 16:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-21 16:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-21 16:38:56 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:spiritcaller": "2025-01-21 16:49:17 +0000",
+      "illageandspillage:preserver": "2025-01-21 16:41:02 +0000",
+      "illageandspillage:absorber": "2025-01-21 17:03:03 +0000",
+      "illageandspillage:engineer": "2025-01-21 16:50:08 +0000",
+      "illageandspillage:twittollager": "2025-01-21 16:42:38 +0000",
+      "illageandspillage:igniter": "2025-01-21 16:39:05 +0000",
+      "illageandspillage:crocofang": "2025-01-21 16:49:54 +0000"
+    },
+    "done": false
+  },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-01-21 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-21 16:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-21 17:07:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-21 17:07:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-21 17:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-21 17:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-01-21 17:10:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_fiddlehead": {
+    "criteria": {
+      "has_fiddlehead": "2025-01-21 17:10:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/pine_nuts": {
+    "criteria": {
+      "has_pine_nuts": "2025-01-21 17:12:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-01-21 17:15:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_tree_star": {
+    "criteria": {
+      "has_tree_star": "2025-01-21 17:15:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-01-21 17:19:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-01-21 17:19:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_fern_thatch": {
+    "criteria": {
+      "has_fern_thatch": "2025-01-21 17:19:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_vallumraptor": "2025-01-21 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-01-21 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/dinosaur_chop": {
+    "criteria": {
+      "has_dinosaur_chop": "2025-01-21 17:22:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/tough_hide": {
+    "criteria": {
+      "has_tough_hide": "2025-01-21 17:22:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-21 17:27:31 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cooked_dinosaur_chop": {
+    "criteria": {
+      "has_cooked_dinosaur_chop": "2025-01-21 17:27:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-21 17:27:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-01-21 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cycad": {
+    "criteria": {
+      "has_cycad": "2025-01-21 17:32:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/heavy_bone": {
+    "criteria": {
+      "has_heavy_bone": "2025-01-21 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/curly_fern": {
+    "criteria": {
+      "has_curly_fern": "2025-01-21 17:33:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_curly_fern": {
+    "criteria": {
+      "has_curly_fern": "2025-01-21 17:33:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-01-21 17:33:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-01-21 17:37:35 +0000"
     },
     "done": true
   },
