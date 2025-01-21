@@ -2401,6 +2401,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-21 00:45:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-21 00:45:32 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/ender_pearl": {
     "criteria": {
       "has_ender_pearl": "2025-01-21 00:34:41 +0000"
@@ -2419,9 +2431,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-21 00:45:32 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2025-01-21 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-21 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-21 00:45:58 +0000"
     },
     "done": true
   },
