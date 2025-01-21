@@ -26,3 +26,7 @@
 [21Jan2025 00:23:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to aarincha_20160]
 [21Jan2025 00:23:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was killed
 [21Jan2025 00:23:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Killed MazeHero547]
+[21Jan2025 00:30:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 00:30:39.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 00:32:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 00:32:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]

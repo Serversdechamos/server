@@ -742,6 +742,7 @@
       "minecraft:creeper": "2025-01-19 22:13:33 +0000",
       "minecraft:cave_spider": "2025-01-19 23:19:32 +0000",
       "minecraft:stray": "2025-01-19 02:17:56 +0000",
+      "minecraft:enderman": "2025-01-21 00:34:40 +0000",
       "minecraft:zombie": "2025-01-19 01:40:20 +0000"
     },
     "done": false
@@ -1062,6 +1063,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-21 00:27:48 +0000",
       "cooked_mutton": "2025-01-19 02:27:56 +0000",
       "cooked_beef": "2025-01-19 01:41:56 +0000",
       "beef": "2025-01-19 02:21:00 +0000",
@@ -2399,9 +2401,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-21 00:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-01-21 00:06:31 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-21 00:34:41 +0000"
     },
     "done": true
   },
