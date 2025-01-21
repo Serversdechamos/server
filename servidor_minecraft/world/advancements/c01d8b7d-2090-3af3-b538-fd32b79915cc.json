@@ -2138,6 +2138,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bear_fur": {
+    "criteria": {
+      "has_bear_fur": "2025-01-21 01:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-01-21 00:45:54 +0000"
@@ -2171,6 +2177,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-21 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-21 01:39:24 +0000"
     },
     "done": true
   },
