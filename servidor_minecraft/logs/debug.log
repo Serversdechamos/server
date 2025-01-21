@@ -3505,3 +3505,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 00:54:56.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 00:55:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> duerme
 [21Jan2025 00:55:37.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> por
+[21Jan2025 00:56:25.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/26064, l='ServerLevel[world]', x=-305.52, y=103.00, z=-554.43] died, message: 'Mason hit the ground too hard'
+[21Jan2025 00:57:08.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 00:57:17.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 00:59:56.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 00:59:56.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 01:01:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
+[21Jan2025 01:01:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by bengy_999
+[21Jan2025 01:03:49.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=115, z=-684} BlockPos{x=-189, y=113, z=-688}
+[21Jan2025 01:03:49.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=115, z=-684} BlockPos{x=-189, y=113, z=-688}
+[21Jan2025 01:03:49.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=115, z=-684} BlockPos{x=-189, y=113, z=-688}
+[21Jan2025 01:04:56.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 01:04:56.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 01:05:24.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
+[21Jan2025 01:05:36.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Sneak 100]
