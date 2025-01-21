@@ -2293,3 +2293,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 22:59:44.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 22:59:44.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 22:59:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 23:01:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Betrayal of Life]
+[21Jan2025 23:02:25.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 23:04:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 23:04:44.225] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[21Jan2025 23:04:44.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:04:44.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:07:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 23:09:44.188] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[21Jan2025 23:09:44.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:09:44.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:09:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
