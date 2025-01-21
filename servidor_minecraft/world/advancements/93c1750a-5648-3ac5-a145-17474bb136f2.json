@@ -1397,33 +1397,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-01-19 23:22:25 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-01-19 23:18:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-01-19 23:32:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/potato": {
-    "criteria": {
-      "has_potato": "2025-01-19 23:22:25 +0000"
     },
     "done": true
   },
@@ -1433,33 +1409,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-01-19 23:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/cod": {
-    "criteria": {
-      "has_cod": "2025-01-19 23:32:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-19 23:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-19 23:22:28 +0000"
     },
     "done": true
   },
@@ -1468,12 +1420,6 @@
       "has_diorite": "2025-01-19 23:17:41 +0000"
     },
     "done": true
-  },
-  "biomancy:biomancy/poacher": {
-    "criteria": {
-      "has_killed_polar_bear": "2025-01-19 23:21:36 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
@@ -1487,27 +1433,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-01-19 23:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-19 23:17:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-01-19 23:22:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-19 23:32:55 +0000"
     },
     "done": true
   },
@@ -1523,21 +1451,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-01-19 23:32:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 23:17:41 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_wheat": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_wheat": "2025-01-19 23:22:28 +0000"
+      "has_diorite": "2025-01-19 23:17:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-19 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/poacher": {
+    "criteria": {
+      "has_killed_polar_bear": "2025-01-19 23:21:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-19 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/potato": {
+    "criteria": {
+      "has_potato": "2025-01-19 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-19 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-19 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-19 23:22:26 +0000"
     },
     "done": true
   },
@@ -1547,9 +1511,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_diorite": "2025-01-19 23:17:41 +0000"
+      "has_wheat": "2025-01-19 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-19 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_wheat": {
+    "criteria": {
+      "has_wheat": "2025-01-19 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-19 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-21 00:21:52 +0000"
     },
     "done": true
   },

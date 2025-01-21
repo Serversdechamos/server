@@ -11,3 +11,18 @@
 [21Jan2025 00:03:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
 [21Jan2025 00:04:04.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
 [21Jan2025 00:04:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[21Jan2025 00:04:40.695] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b86c91d[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:46649) lost connection: Disconnected
+[21Jan2025 00:04:44.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[21Jan2025 00:04:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 00:04:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 00:04:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Jan2025 00:06:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cover Me with Diamonds]
+[21Jan2025 00:20:10.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:54499] logged in with entity id 13685 at (886.4588290128019, 70.0, -613.5735649822516)
+[21Jan2025 00:20:10.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[21Jan2025 00:20:10.485] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[21Jan2025 00:20:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aarincha_20160> HOLA SAMU
+[21Jan2025 00:20:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> hello
+[21Jan2025 00:22:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ya encontre al jefe
+[21Jan2025 00:23:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to aarincha_20160]
+[21Jan2025 00:23:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was killed
+[21Jan2025 00:23:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Killed MazeHero547]
