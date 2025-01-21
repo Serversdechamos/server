@@ -323,3 +323,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 22:21:49.615] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
 [21Jan2025 22:21:52.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [21Jan2025 22:28:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Jan2025 22:29:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
