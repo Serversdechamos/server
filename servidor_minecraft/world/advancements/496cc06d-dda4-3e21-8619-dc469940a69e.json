@@ -2413,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-21 00:37:40 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2025-01-21 00:34:41 +0000"
