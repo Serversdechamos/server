@@ -3396,5 +3396,89 @@
     },
     "done": true
   },
+  "biomancy:biomancy/decomposer": {
+    "criteria": {
+      "has_decomposer": "2025-01-21 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/healing_activator_sacrifice": {
+    "criteria": {
+      "has_sacrificed_potion": "2025-01-21 22:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-21 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_forge": {
+    "criteria": {
+      "has_bio_forge": "2025-01-21 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/combat/crafting/despoil_sickle": {
+    "criteria": {
+      "has_primordial_core": "2025-01-21 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2025-01-21 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/primal_vision": {
+    "criteria": {
+      "has_primordial_core": "2025-01-21 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primordial_core": {
+    "criteria": {
+      "has_primordial_core": "2025-01-21 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/cradle": {
+    "criteria": {
+      "has_placed_cradle": "2025-01-21 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_lab": {
+    "criteria": {
+      "has_bio_lab": "2025-01-21 22:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-21 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-21 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primordial_cradle": {
+    "criteria": {
+      "has_primordial_core": "2025-01-21 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/digester": {
+    "criteria": {
+      "has_digester": "2025-01-21 22:56:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
