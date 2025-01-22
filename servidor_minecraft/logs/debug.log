@@ -2342,3 +2342,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Jan2025 23:49:44.165] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
 [21Jan2025 23:49:44.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 23:49:44.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:54:44.165] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[21Jan2025 23:54:44.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:54:44.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:59:44.165] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[21Jan2025 23:59:44.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:59:44.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
