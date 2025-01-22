@@ -335,3 +335,76 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jan2025 23:11:05.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:43259] logged in with entity id 861 at (-18.694064953820007, 67.0, -65.72554548775899)
 [22Jan2025 23:11:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
 [22Jan2025 23:11:05.510] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[22Jan2025 23:16:15.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:37573] logged in with entity id 2631 at (-165.50593392502677, 111.5, -658.4449510092759)
+[22Jan2025 23:16:15.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[22Jan2025 23:16:15.267] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[22Jan2025 23:17:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 tried opening a chest, but was eaten instead
+[22Jan2025 23:22:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [A Terrible Fortress]
+[22Jan2025 23:23:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Terrible Fortress]
+[22Jan2025 23:26:13.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 0.0,-10.490796109027968,0.0
+[22Jan2025 23:26:14.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
+[22Jan2025 23:26:18.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> jajajajajajjajajajjajajaj
+[22Jan2025 23:26:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd
+[22Jan2025 23:26:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> jajajajjajajajjajnajajjajajajjajajajjajajajjajajajjajajajjajajajjajajajajajjajajjajajajjajajjajajjajajajjajajajjajajjajajja
+[22Jan2025 23:27:49.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Enderman
+[22Jan2025 23:27:52.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> no
+[22Jan2025 23:27:54.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> no
+[22Jan2025 23:27:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> no
+[22Jan2025 23:28:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a
+[22Jan2025 23:28:22.419] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[22Jan2025 23:28:25.574] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[22Jan2025 23:28:27.778] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[22Jan2025 23:29:19.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> preguntale a samy si quiere jugaer
+[22Jan2025 23:29:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> no quiere
+[22Jan2025 23:30:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[22Jan2025 23:30:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Pest Control]
+[22Jan2025 23:30:24.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[22Jan2025 23:31:10.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:13.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> si
+[22Jan2025 23:31:15.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu
+[22Jan2025 23:31:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:19.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:24.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:24.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samut
+[22Jan2025 23:31:26.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Kicked for spamming
+[22Jan2025 23:31:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[22Jan2025 23:31:27.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 23:31:33.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:54569] logged in with entity id 8561 at (-178.5950946471084, 104.0, -705.3000000119209)
+[22Jan2025 23:31:33.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[22Jan2025 23:31:33.981] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[22Jan2025 23:31:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> jajajjajajaj
+[22Jan2025 23:31:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> mi mama va a ir a la picina :)
+[22Jan2025 23:31:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> chevere
+[22Jan2025 23:32:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> cualquier cosa yo sigo en el meet
+[22Jan2025 23:32:17.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ok
+[22Jan2025 23:32:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a y ven mira
+[22Jan2025 23:32:42.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[22Jan2025 23:32:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[22Jan2025 23:32:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> pero que?
+[22Jan2025 23:33:27.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [It Is Wednesday]
+[22Jan2025 23:33:58.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> mira mi sapo
+[22Jan2025 23:34:27.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ya lo sente
+[22Jan2025 23:35:38.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> te traje uno
+[22Jan2025 23:35:42.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> se me perdio la espada :)
+[22Jan2025 23:35:57.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Pest Control]
+[22Jan2025 23:36:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [It Is Wednesday]
+[22Jan2025 23:36:36.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> toma
+[22Jan2025 23:36:41.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> este te queda bien

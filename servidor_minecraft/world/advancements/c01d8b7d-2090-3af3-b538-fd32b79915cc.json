@@ -2138,15 +2138,101 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/bear_fur": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_bear_fur": "2025-01-21 01:40:32 +0000"
+      "minecraft:soul_sand_valley": "2025-01-21 00:45:54 +0000",
+      "minecraft:nether_wastes": "2025-01-22 23:22:35 +0000",
+      "minecraft:warped_forest": "2025-01-22 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-21 00:45:54 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_spawner_frame": "2025-01-21 01:55:59 +0000"
+      "entered_nether": "2025-01-21 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-21 00:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-21 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-21 00:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 00:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-21 01:02:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-01-21 01:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-21 01:02:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_carved_pumpkin": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-21 01:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-21 01:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-21 01:05:36 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bison_fur": {
+    "criteria": {
+      "has_bison_fur": "2025-01-21 01:18:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-21 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bear_fur": {
+    "criteria": {
+      "has_bear_fur": "2025-01-21 01:40:32 +0000"
     },
     "done": true
   },
@@ -2168,12 +2254,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-01-21 00:45:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 01:45:06 +0000"
@@ -2192,33 +2272,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_carved_pumpkin": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-01-21 01:04:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-21 00:45:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 01:45:06 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-01-21 01:52:27 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
-    "criteria": {
-      "awaken_chaos_spawner": "2025-01-21 01:54:07 +0000"
     },
     "done": true
   },
@@ -2228,61 +2284,43 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-21 01:02:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-01-21 02:00:10 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-01-21 01:02:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 01:45:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-21 00:56:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-21 01:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-21 00:57:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-01-21 01:04:57 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/bison_fur": {
-    "criteria": {
-      "has_bison_fur": "2025-01-21 01:18:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 01:45:06 +0000"
     },
@@ -2294,45 +2332,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
-      "has_pumpkin": "2025-01-21 01:02:20 +0000"
+      "obtain_chaotic_hexahedron": "2025-01-21 01:52:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
-      "has_log": "2025-01-21 00:57:28 +0000"
+      "has_chaotic_hexahedron": "2025-01-21 01:52:27 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
     "criteria": {
-      "entered_nether": "2025-01-21 00:45:54 +0000"
+      "awaken_chaos_spawner": "2025-01-21 01:54:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
-      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-21 01:58:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-01-21 01:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+      "has_spawner_frame": "2025-01-21 01:55:59 +0000"
     },
     "done": true
   },
@@ -2348,12 +2368,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
-    },
-    "done": true
-  },
   "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
       "has_spawner_frame": "2025-01-21 01:55:59 +0000"
@@ -2366,27 +2380,39 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_chaotic_hexahedron": "2025-01-21 01:52:27 +0000"
+      "has_bow": "2025-01-21 01:58:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_netherrack": "2025-01-21 00:46:06 +0000"
+      "diamond_helmet": "2025-01-21 02:00:10 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/gold_ingot": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+      "fortress": "2025-01-22 23:22:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "biomancy:recipes/biomancy/decomposing/mosquito_larva": {
     "criteria": {
-      "has_gold_ingot": "2025-01-21 01:45:06 +0000"
+      "has_mosquito_larva": "2025-01-22 23:35:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_warped_toad": {
+    "criteria": {
+      "tame": "2025-01-22 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-22 23:35:57 +0000"
     },
     "done": true
   },
