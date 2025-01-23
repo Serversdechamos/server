@@ -4296,3 +4296,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jan2025 00:42:22.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
 [23Jan2025 00:42:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was cursed by MazeHero547 's Arrow
 [23Jan2025 00:43:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:45:21.170] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 00:45:21.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:45:21.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 00:45:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
+[23Jan2025 00:45:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was shot by Chagrin Sentry
+[23Jan2025 00:46:10.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22160, l='ServerLevel[world]', x=1172.23, y=63.00, z=864.47] died, message: 'Farmer was shot by Chagrin Sentry'
+[23Jan2025 00:46:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Chagrin Sentry
+[23Jan2025 00:46:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was shot by Sniper
+[23Jan2025 00:46:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Take Aim]
+[23Jan2025 00:46:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:47:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Poker
+[23Jan2025 00:47:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Beeper
+[23Jan2025 00:48:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
+[23Jan2025 00:48:27.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Jan2025 00:48:32.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
+[23Jan2025 00:48:34.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Jan2025 00:48:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
+[23Jan2025 00:49:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Hero of the Village]
+[23Jan2025 00:49:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has completed the challenge [Hero of the Village]
+[23Jan2025 00:49:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has completed the challenge [Hero of the Village]
+[23Jan2025 00:49:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Jan2025 00:49:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Jan2025 00:50:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Drowned
+[23Jan2025 00:50:21.130] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 00:50:21.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:50:21.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 00:50:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Zombie
+[23Jan2025 00:51:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Cover Me with Diamonds]
+[23Jan2025 00:51:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Jan2025 00:51:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Jan2025 00:51:54.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
+[23Jan2025 00:52:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Jan2025 00:52:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Law of Club and Fang]
+[23Jan2025 00:52:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie Villager
+[23Jan2025 00:53:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Jan2025 00:53:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was pummeled by Freakager
+[23Jan2025 00:53:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd
+[23Jan2025 00:53:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> se acabo el meet
+[23Jan2025 00:54:25.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ragno
+[23Jan2025 00:55:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ya esta el otro meet
+[23Jan2025 00:55:21.159] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 00:55:21.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:55:21.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

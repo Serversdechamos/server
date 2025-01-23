@@ -757,6 +757,7 @@
       "minecraft:enderman": "2025-01-21 00:34:40 +0000",
       "minecraft:vex": "2025-01-21 16:49:54 +0000",
       "minecraft:zombie": "2025-01-19 01:40:20 +0000",
+      "minecraft:drowned": "2025-01-23 00:50:11 +0000",
       "minecraft:zombie_villager": "2025-01-21 13:34:43 +0000"
     },
     "done": false
@@ -3923,6 +3924,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-23 00:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
     },
     "done": true
   },

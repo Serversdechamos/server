@@ -1457,6 +1457,8 @@
       "minecraft:vindicator": "2025-01-23 00:18:19 +0000",
       "minecraft:spider": "2025-01-19 03:25:02 +0000",
       "minecraft:creeper": "2025-01-19 23:08:44 +0000",
+      "minecraft:evoker": "2025-01-23 00:42:30 +0000",
+      "minecraft:witch": "2025-01-23 00:40:47 +0000",
       "minecraft:stray": "2025-01-19 22:48:00 +0000",
       "minecraft:enderman": "2025-01-20 00:16:00 +0000",
       "minecraft:vex": "2025-01-23 00:38:05 +0000",
@@ -2672,9 +2674,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-23 00:41:23 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
-      "illageandspillage:twittollager": "2025-01-23 00:32:35 +0000"
+      "illageandspillage:preserver": "2025-01-23 00:40:53 +0000",
+      "illageandspillage:twittollager": "2025-01-23 00:32:35 +0000",
+      "illageandspillage:igniter": "2025-01-23 00:45:30 +0000",
+      "illageandspillage:crocofang": "2025-01-23 00:46:12 +0000"
     },
     "done": false
   },
