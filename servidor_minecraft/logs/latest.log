@@ -102,3 +102,64 @@
 [23Jan2025 00:22:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Spiritcaller
 [23Jan2025 00:23:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
 [23Jan2025 00:23:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
+[23Jan2025 00:25:42.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
+[23Jan2025 00:25:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
+[23Jan2025 00:25:43.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[23Jan2025 00:25:43.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[23Jan2025 00:25:44.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[23Jan2025 00:25:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[23Jan2025 00:25:47.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:39195] logged in with entity id 22095 at (1181.9301223220984, 69.0, 849.121578009414)
+[23Jan2025 00:25:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[23Jan2025 00:25:47.085] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[23Jan2025 00:25:49.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:60507] logged in with entity id 22299 at (1186.6296689147118, 67.0, 849.6174654114541)
+[23Jan2025 00:25:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[23Jan2025 00:25:49.258] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[23Jan2025 00:25:51.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:49351] logged in with entity id 22350 at (1179.8119645009722, 63.0, 857.1869071469332)
+[23Jan2025 00:25:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[23Jan2025 00:25:51.211] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[23Jan2025 00:25:57.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by MazeHero547
+[23Jan2025 00:26:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: The difficulty has been set to Peaceful]
+[23Jan2025 00:26:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: The difficulty has been set to Hard]
+[23Jan2025 00:27:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Bad Omen to MazeHero547]
+[23Jan2025 00:28:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Crocofang
+[23Jan2025 00:28:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Voluntary Exile]
+[23Jan2025 00:28:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:29:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
+[23Jan2025 00:29:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was burnt to a crisp whilst fighting Poker
+[23Jan2025 00:30:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Spider
+[23Jan2025 00:31:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Spider
+[23Jan2025 00:32:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was fireballed by Igniter
+[23Jan2025 00:32:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:32:33.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:32:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:33:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Stray
+[23Jan2025 00:33:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surge Protector]
+[23Jan2025 00:33:54.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Surge Protector]
+[23Jan2025 00:33:54.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Surge Protector]
+[23Jan2025 00:34:30.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Spiritcaller
+[23Jan2025 00:35:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Mob Spirit
+[23Jan2025 00:35:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Spiritcaller
+[23Jan2025 00:35:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by MazeHero547
+[23Jan2025 00:36:29.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:36:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:36:55.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vindicator
+[23Jan2025 00:37:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:37:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vindicator
+[23Jan2025 00:37:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Crocofang
+[23Jan2025 00:37:25.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:37:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:37:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:38:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vex
+[23Jan2025 00:38:16.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:38:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vex
+[23Jan2025 00:40:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Crocofang
+[23Jan2025 00:40:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Twittollager
+[23Jan2025 00:40:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Poker
+[23Jan2025 00:40:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:40:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:40:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Poker
+[23Jan2025 00:41:14.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Beeper
+[23Jan2025 00:41:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Ol' Betsy]
+[23Jan2025 00:42:22.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
+[23Jan2025 00:42:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was cursed by MazeHero547 's Arrow
+[23Jan2025 00:43:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex

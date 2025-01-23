@@ -3878,9 +3878,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-22 23:23:33 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mosquito_larva": {
     "criteria": {
       "has_mosquito_larva": "2025-01-22 23:30:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-22 23:30:10 +0000"
     },
     "done": true
   },
@@ -3896,27 +3908,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-23 00:14:02 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-01-22 23:30:10 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/food/crafting/nutrient_paste_from_nutrient_bar": {
     "criteria": {
       "has_nutrient_paste": "2025-01-22 23:52:20 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "fortress": "2025-01-22 23:23:33 +0000"
+      "shot_crossbow": "2025-01-23 00:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-23 00:32:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-01-23 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
     },
     "done": true
   },
