@@ -629,6 +629,7 @@
       "baked_potato": "2025-01-19 22:42:12 +0000",
       "porkchop": "2025-01-20 02:00:44 +0000",
       "apple": "2025-01-19 02:48:12 +0000",
+      "potato": "2025-01-23 00:10:56 +0000",
       "mutton": "2025-01-19 02:00:17 +0000",
       "bread": "2025-01-19 03:11:52 +0000",
       "golden_apple": "2025-01-19 02:58:24 +0000",
@@ -1451,7 +1452,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-23 00:17:26 +0000",
       "minecraft:skeleton": "2025-01-19 23:09:26 +0000",
+      "minecraft:vindicator": "2025-01-23 00:18:19 +0000",
       "minecraft:spider": "2025-01-19 03:25:02 +0000",
       "minecraft:creeper": "2025-01-19 23:08:44 +0000",
       "minecraft:stray": "2025-01-19 22:48:00 +0000",
@@ -2458,6 +2461,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-23 00:18:06 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/bio_lab": {
     "criteria": {
       "has_living_flesh": "2025-01-23 00:03:04 +0000"
@@ -2470,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-23 00:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
@@ -2479,6 +2494,12 @@
   "biomancy:recipes/biomancy/bio_forging/ravenous_claws": {
     "criteria": {
       "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-23 00:19:58 +0000"
     },
     "done": true
   },

@@ -82,3 +82,23 @@
 [23Jan2025 00:11:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
 [23Jan2025 00:12:14.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16768, l='ServerLevel[world]', x=1157.37, y=70.94, z=819.25] died, message: 'Nitwit was slain by bengy_999'
 [23Jan2025 00:14:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ol' Betsy]
+[23Jan2025 00:15:05.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/16772, l='ServerLevel[world]', x=1147.52, y=71.00, z=818.30] died, message: 'Cartographer was slain by MazeHero547'
+[23Jan2025 00:16:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Bad Omen to MazeHero547]
+[23Jan2025 00:17:15.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Pillager
+[23Jan2025 00:18:03.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:18:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Take Aim]
+[23Jan2025 00:18:19.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Voluntary Exile]
+[23Jan2025 00:18:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to bengy_999]
+[23Jan2025 00:19:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
+[23Jan2025 00:19:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has reached the goal [Postmortal]
+[23Jan2025 00:20:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Ravager
+[23Jan2025 00:20:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
+[23Jan2025 00:20:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
+[23Jan2025 00:21:06.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Twittollager
+[23Jan2025 00:21:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Twittollager
+[23Jan2025 00:21:43.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was doomed to fall by Absorber
+[23Jan2025 00:21:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was doomed to fall by Absorber
+[23Jan2025 00:22:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Absorber
+[23Jan2025 00:22:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Spiritcaller
+[23Jan2025 00:23:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
+[23Jan2025 00:23:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
