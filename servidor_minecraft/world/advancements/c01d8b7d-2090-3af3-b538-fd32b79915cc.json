@@ -2404,9 +2404,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_chest": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-23 00:05:03 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
     },
     "done": true
   },
@@ -2422,9 +2440,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/tongue": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/serene_salad": {
     "criteria": {
       "serene_salad": "2025-01-22 23:55:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_lab": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
     },
     "done": true
   },
@@ -2440,6 +2476,24 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/ravenous_claws": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/modular_larynx": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
@@ -2449,6 +2503,18 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_pressure_plate": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_leggings": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
     },
     "done": true
   },
@@ -2464,9 +2530,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/biometric_membrane": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/caustic_gunblade": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
     },
     "done": true
   },
@@ -2482,15 +2560,63 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_chestplate": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/digester": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_boots": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/maw_hopper": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_helmet": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-22 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/thorn_shield": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-23 00:00:46 +0000"
     },
     "done": true
   },
@@ -2506,9 +2632,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/chrysalis": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_vallumraptor": {
     "criteria": {
       "killed": "2025-01-22 23:57:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/living_flesh": {
+    "criteria": {
+      "has_living_flesh": "2025-01-23 00:03:04 +0000"
     },
     "done": true
   },
