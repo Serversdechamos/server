@@ -3104,6 +3104,7 @@
       "illageandspillage:spiritcaller": "2025-01-21 16:49:17 +0000",
       "illageandspillage:preserver": "2025-01-21 16:41:02 +0000",
       "illageandspillage:absorber": "2025-01-21 17:03:03 +0000",
+      "illageandspillage:ragno": "2025-01-23 01:06:24 +0000",
       "illageandspillage:engineer": "2025-01-21 16:50:08 +0000",
       "illageandspillage:twittollager": "2025-01-21 16:42:38 +0000",
       "illageandspillage:igniter": "2025-01-21 16:39:05 +0000",
@@ -3937,6 +3938,12 @@
   "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-01-23 01:06:24 +0000"
     },
     "done": true
   },

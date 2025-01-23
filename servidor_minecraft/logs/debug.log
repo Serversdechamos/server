@@ -4357,3 +4357,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jan2025 01:05:21.120] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
 [23Jan2025 01:05:21.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 01:05:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 01:06:24.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Oops, did I scare you?]
+[23Jan2025 01:06:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Jan2025 01:06:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Jan2025 01:08:04.069] [Server thread/DEBUG] [Biomancy/SpatialStore]: Fetched existing id=-41231688843154 shape=com.github.elenterius.biomancy.world.mound.MoundShape@79931838
+[23Jan2025 01:09:17.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[23Jan2025 01:09:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[23Jan2025 01:10:21.111] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 01:10:21.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 01:10:21.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 01:15:21.104] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 01:15:21.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 01:15:21.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
