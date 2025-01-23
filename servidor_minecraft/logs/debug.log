@@ -4339,3 +4339,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jan2025 00:55:21.159] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
 [23Jan2025 00:55:21.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 00:55:21.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 00:56:12.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> unanse al meet
+[23Jan2025 00:56:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was pummeled by Ragno
+[23Jan2025 00:56:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was pummeled by Funnybone
+[23Jan2025 00:57:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was pummeled by Freakager
+[23Jan2025 00:57:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu el meet
+[23Jan2025 00:57:50.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
+[23Jan2025 00:57:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
+[23Jan2025 00:57:50.914] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jan2025 00:58:29.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22147, l='ServerLevel[world]', x=1159.96, y=71.56, z=814.76] died, message: 'Unemployed was pummeled by Freakager'
+[23Jan2025 00:59:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Ragno
+[23Jan2025 01:00:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Ragno
+[23Jan2025 01:00:21.136] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 01:00:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 01:00:21.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 01:03:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was plagued with tumors by Ragno
+[23Jan2025 01:05:21.120] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[23Jan2025 01:05:21.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 01:05:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
