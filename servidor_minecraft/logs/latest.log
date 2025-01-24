@@ -357,3 +357,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jan2025 22:19:29.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
 [24Jan2025 22:20:51.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [24Jan2025 22:23:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[24Jan2025 22:26:53.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Night Vision to 3 targets]
+[24Jan2025 22:29:48.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[24Jan2025 22:30:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Night Vision to 3 targets]
+[24Jan2025 22:31:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[24Jan2025 22:32:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Stray
+[24Jan2025 22:33:41.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[24Jan2025 22:35:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Alex's Caves]
