@@ -3965,5 +3965,233 @@
     },
     "done": true
   },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_slab": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_slab": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_stairs_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_stairs": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_wall_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primal_permeable_membrane_pane_from_primal_permeable_membrane": {
+    "criteria": {
+      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_slab": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_wall_from_malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_from_slabs": {
+    "criteria": {
+      "has_malignant_flesh_slab": "2025-01-24 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_stairs": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_stairs": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/malignant_growth": {
+    "criteria": {
+      "has_malignant_block": "2025-01-24 22:12:39 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/malignant_flesh_slab": {
+    "criteria": {
+      "has_malignant_flesh_slab": "2025-01-24 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_wall": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_wall": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_stairs_from_malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_wall": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_wall": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_stairs_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_slab_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_stairs_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_wall_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/malignant_flesh_stairs": {
+    "criteria": {
+      "has_malignant_flesh_stairs": "2025-01-24 22:12:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_wall_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_slab_from_malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_stairs": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primal_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/primal_permeable_membrane": {
+    "criteria": {
+      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_slab_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_slab_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_slab": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
