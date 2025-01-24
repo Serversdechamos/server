@@ -1,217 +1,354 @@
-[23Jan2025 00:00:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [A Seedy Place]
-[23Jan2025 00:02:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was doused with corrosive acid by MazeHero547
-[23Jan2025 00:02:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:02:22.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:02:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:02:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:02:58.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:03:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:03:06.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has reached the goal [Clever Girl]
-[23Jan2025 00:04:19.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
-[23Jan2025 00:04:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shredded to ribbons
-[23Jan2025 00:04:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was drained of blood by MazeHero547
-[23Jan2025 00:04:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shredded to ribbons
-[23Jan2025 00:06:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Enchanter]
-[23Jan2025 00:08:37.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.36405950456048686
-[23Jan2025 00:08:37.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.8815517145486638
-[23Jan2025 00:08:37.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.38928870978429586
-[23Jan2025 00:08:37.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.1323133688501912
-[23Jan2025 00:08:37.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.876202687461955
-[23Jan2025 00:08:37.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 2.6209887354717694
-[23Jan2025 00:08:37.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 3.36441978952314
-[23Jan2025 00:08:43.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3379632588275854
-[23Jan2025 00:08:43.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9246789328612977
-[23Jan2025 00:08:43.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.3102554215106466
-[23Jan2025 00:08:43.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.6784045436550059
-[23Jan2025 00:08:43.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.5250852803931139
-[23Jan2025 00:08:43.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.1496352524470694
-[23Jan2025 00:08:44.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.43176258659035227
-[23Jan2025 00:08:44.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.43176258659035227
-[23Jan2025 00:08:44.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.31239386253696466
-[23Jan2025 00:08:44.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.6822165124247022
-[23Jan2025 00:08:44.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9531945815666631
-[23Jan2025 00:08:44.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.33275586376699096
-[23Jan2025 00:08:44.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.33275586376699096
-[23Jan2025 00:08:44.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.33275586376699096
-[23Jan2025 00:08:44.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.7052493627974599
-[23Jan2025 00:09:07.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.30198512539345757
-[23Jan2025 00:09:07.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0378833001724388
-[23Jan2025 00:09:07.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.7732366327969658
-[23Jan2025 00:09:08.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.5071364535981502
-[23Jan2025 00:09:11.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3795776703857854
-[23Jan2025 00:09:11.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9958428831894963
-[23Jan2025 00:09:11.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:11.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:11.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:11.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3824683233831365
-[23Jan2025 00:09:13.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.2835233528093113
-[23Jan2025 00:09:13.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.5841879985015339
-[23Jan2025 00:09:13.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.8649266748071796
-[23Jan2025 00:09:13.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.28102126919418424
-[23Jan2025 00:09:15.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3741171940404229
-[23Jan2025 00:09:15.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9835683790273606
-[23Jan2025 00:09:15.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:15.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:16.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.30288036595624135
-[23Jan2025 00:09:16.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.8389859062547771
-[23Jan2025 00:09:16.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.6671432723047745
-[23Jan2025 00:09:16.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.34617777671654437
-[23Jan2025 00:09:16.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.38305862559015225
-[23Jan2025 00:09:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
-[23Jan2025 00:09:18.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.4304535190773322
-[23Jan2025 00:09:19.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3719924990276695
-[23Jan2025 00:09:19.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9987743557061037
-[23Jan2025 00:09:19.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.7089668685186297
-[23Jan2025 00:09:19.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:19.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3102352001731674
-[23Jan2025 00:09:19.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.901784568433456
-[23Jan2025 00:09:19.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:19.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:19.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:20.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.3827370260026157
-[23Jan2025 00:09:21.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.9909125531947751
-[23Jan2025 00:09:21.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 1.0
-[23Jan2025 00:09:21.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of bengy_999) moved wrongly! 0.44880574699504905
-[23Jan2025 00:09:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
-[23Jan2025 00:09:47.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
-[23Jan2025 00:09:50.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:10:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:10:36.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
-[23Jan2025 00:10:45.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to bengy_999]
-[23Jan2025 00:10:46.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
-[23Jan2025 00:11:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
-[23Jan2025 00:12:14.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16768, l='ServerLevel[world]', x=1157.37, y=70.94, z=819.25] died, message: 'Nitwit was slain by bengy_999'
-[23Jan2025 00:14:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ol' Betsy]
-[23Jan2025 00:15:05.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/16772, l='ServerLevel[world]', x=1147.52, y=71.00, z=818.30] died, message: 'Cartographer was slain by MazeHero547'
-[23Jan2025 00:16:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Bad Omen to MazeHero547]
-[23Jan2025 00:17:15.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Pillager
-[23Jan2025 00:18:03.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:18:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Take Aim]
-[23Jan2025 00:18:19.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Voluntary Exile]
-[23Jan2025 00:18:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to bengy_999]
-[23Jan2025 00:19:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:19:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has reached the goal [Postmortal]
-[23Jan2025 00:20:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Ravager
-[23Jan2025 00:20:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
-[23Jan2025 00:20:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
-[23Jan2025 00:21:06.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Twittollager
-[23Jan2025 00:21:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Twittollager
-[23Jan2025 00:21:43.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was doomed to fall by Absorber
-[23Jan2025 00:21:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was doomed to fall by Absorber
-[23Jan2025 00:22:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Absorber
-[23Jan2025 00:22:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Spiritcaller
-[23Jan2025 00:23:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
-[23Jan2025 00:23:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was killed by Spiritcaller using magic
-[23Jan2025 00:25:42.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
-[23Jan2025 00:25:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
-[23Jan2025 00:25:43.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
-[23Jan2025 00:25:43.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
-[23Jan2025 00:25:44.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
-[23Jan2025 00:25:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
-[23Jan2025 00:25:47.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:39195] logged in with entity id 22095 at (1181.9301223220984, 69.0, 849.121578009414)
-[23Jan2025 00:25:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
-[23Jan2025 00:25:47.085] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
-[23Jan2025 00:25:49.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:60507] logged in with entity id 22299 at (1186.6296689147118, 67.0, 849.6174654114541)
-[23Jan2025 00:25:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
-[23Jan2025 00:25:49.258] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
-[23Jan2025 00:25:51.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:49351] logged in with entity id 22350 at (1179.8119645009722, 63.0, 857.1869071469332)
-[23Jan2025 00:25:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
-[23Jan2025 00:25:51.211] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
-[23Jan2025 00:25:57.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by MazeHero547
-[23Jan2025 00:26:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: The difficulty has been set to Peaceful]
-[23Jan2025 00:26:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: The difficulty has been set to Hard]
-[23Jan2025 00:27:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Bad Omen to MazeHero547]
-[23Jan2025 00:28:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Crocofang
-[23Jan2025 00:28:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Voluntary Exile]
-[23Jan2025 00:28:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:29:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
-[23Jan2025 00:29:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was burnt to a crisp whilst fighting Poker
-[23Jan2025 00:30:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Spider
-[23Jan2025 00:31:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Spider
-[23Jan2025 00:32:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was fireballed by Igniter
-[23Jan2025 00:32:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:32:33.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:32:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:33:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Stray
-[23Jan2025 00:33:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surge Protector]
-[23Jan2025 00:33:54.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Surge Protector]
-[23Jan2025 00:33:54.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Surge Protector]
-[23Jan2025 00:34:30.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Spiritcaller
-[23Jan2025 00:35:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Mob Spirit
-[23Jan2025 00:35:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Spiritcaller
-[23Jan2025 00:35:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by MazeHero547
-[23Jan2025 00:36:29.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:36:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:36:55.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vindicator
-[23Jan2025 00:37:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:37:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vindicator
-[23Jan2025 00:37:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Crocofang
-[23Jan2025 00:37:25.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:37:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:37:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:38:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vex
-[23Jan2025 00:38:16.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:38:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vex
-[23Jan2025 00:40:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Crocofang
-[23Jan2025 00:40:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Twittollager
-[23Jan2025 00:40:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Poker
-[23Jan2025 00:40:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:40:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Vindicator
-[23Jan2025 00:40:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Poker
-[23Jan2025 00:41:14.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was blown up by Beeper
-[23Jan2025 00:41:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Ol' Betsy]
-[23Jan2025 00:42:22.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:42:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was cursed by MazeHero547 's Arrow
-[23Jan2025 00:43:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:45:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ravager
-[23Jan2025 00:45:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was shot by Chagrin Sentry
-[23Jan2025 00:46:10.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22160, l='ServerLevel[world]', x=1172.23, y=63.00, z=864.47] died, message: 'Farmer was shot by Chagrin Sentry'
-[23Jan2025 00:46:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Chagrin Sentry
-[23Jan2025 00:46:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was shot by Sniper
-[23Jan2025 00:46:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Take Aim]
-[23Jan2025 00:46:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Vex
-[23Jan2025 00:47:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Poker
-[23Jan2025 00:47:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Beeper
-[23Jan2025 00:48:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
-[23Jan2025 00:48:27.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:48:32.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
-[23Jan2025 00:48:34.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:48:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Absorber
-[23Jan2025 00:49:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Hero of the Village]
-[23Jan2025 00:49:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has completed the challenge [Hero of the Village]
-[23Jan2025 00:49:19.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has completed the challenge [Hero of the Village]
-[23Jan2025 00:49:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:49:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:50:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Drowned
-[23Jan2025 00:50:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Zombie
-[23Jan2025 00:51:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Cover Me with Diamonds]
-[23Jan2025 00:51:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:51:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:51:54.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
-[23Jan2025 00:52:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 00:52:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Law of Club and Fang]
-[23Jan2025 00:52:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie Villager
-[23Jan2025 00:53:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 00:53:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was pummeled by Freakager
-[23Jan2025 00:53:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd
-[23Jan2025 00:53:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> se acabo el meet
-[23Jan2025 00:54:25.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Ragno
-[23Jan2025 00:55:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ya esta el otro meet
-[23Jan2025 00:56:12.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> unanse al meet
-[23Jan2025 00:56:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was pummeled by Ragno
-[23Jan2025 00:56:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was pummeled by Funnybone
-[23Jan2025 00:57:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was pummeled by Freakager
-[23Jan2025 00:57:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> samu el meet
-[23Jan2025 00:57:50.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
-[23Jan2025 00:57:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
-[23Jan2025 00:57:50.914] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[23Jan2025 00:58:29.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22147, l='ServerLevel[world]', x=1159.96, y=71.56, z=814.76] died, message: 'Unemployed was pummeled by Freakager'
-[23Jan2025 00:59:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Ragno
-[23Jan2025 01:00:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by Ragno
-[23Jan2025 01:03:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was plagued with tumors by Ragno
-[23Jan2025 01:06:24.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Oops, did I scare you?]
-[23Jan2025 01:06:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[23Jan2025 01:06:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[23Jan2025 01:09:17.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
-[23Jan2025 01:09:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
-[23Jan2025 03:07:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Phantom
+[24Jan2025 22:05:52.467] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jan2025 22:05:52.473] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Jan2025 22:05:53.863] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jan2025 22:05:53.942] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jan2025 22:05:54.563] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 22:05:54.565] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 22:05:54.567] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 22:05:54.570] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 22:05:54.969] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[24Jan2025 22:05:58.876] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jan2025 22:05:59.050] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jan2025 22:05:59.413] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
+[24Jan2025 22:05:59.416] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[24Jan2025 22:05:59.436] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[24Jan2025 22:05:59.675] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 22:05:59.693] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 77 options available, 0 override(s) found
+[24Jan2025 22:05:59.789] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[24Jan2025 22:05:59.790] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[24Jan2025 22:05:59.794] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[24Jan2025 22:05:59.795] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[24Jan2025 22:05:59.803] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[24Jan2025 22:05:59.806] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[24Jan2025 22:05:59.808] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[24Jan2025 22:05:59.812] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[24Jan2025 22:06:00.113] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[24Jan2025 22:06:00.114] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[24Jan2025 22:06:00.116] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[24Jan2025 22:06:00.116] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[24Jan2025 22:06:00.119] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
+[24Jan2025 22:06:00.119] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[24Jan2025 22:06:00.121] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
+[24Jan2025 22:06:00.122] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[24Jan2025 22:06:00.125] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
+[24Jan2025 22:06:00.125] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[24Jan2025 22:06:03.214] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Jan2025 22:06:04.243] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (15.65 s after launch)
+[24Jan2025 22:06:04.542] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Jan2025 22:06:04.546] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Jan2025 22:06:07.810] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3557 milliseconds
+[24Jan2025 22:06:14.320] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[24Jan2025 22:06:15.680] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[24Jan2025 22:06:16.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Jan2025 22:06:16.357] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[24Jan2025 22:06:16.361] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[24Jan2025 22:06:16.365] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[24Jan2025 22:06:16.366] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[24Jan2025 22:06:16.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[24Jan2025 22:06:16.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[24Jan2025 22:06:16.384] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[24Jan2025 22:06:16.813] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/server/servidor_minecraft/config/illageandspillage-client.toml
+[24Jan2025 22:06:16.815] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/server/servidor_minecraft/config/illageandspillage-client.toml
+[24Jan2025 22:06:16.816] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/server/servidor_minecraft/config/illageandspillage-client.toml
+[24Jan2025 22:06:16.822] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/server/servidor_minecraft/config/illageandspillage-common.toml
+[24Jan2025 22:06:16.825] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/server/servidor_minecraft/config/illageandspillage-common.toml
+[24Jan2025 22:06:16.827] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/server/servidor_minecraft/config/illageandspillage-common.toml
+[24Jan2025 22:06:17.098] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Jan2025 22:06:17.099] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Jan2025 22:06:17.208] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[24Jan2025 22:06:21.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[24Jan2025 22:06:23.215] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[24Jan2025 22:06:23.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[24Jan2025 22:06:23.904] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[24Jan2025 22:06:23.905] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6d1571ec]
+[24Jan2025 22:06:23.911] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[24Jan2025 22:06:23.957] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Jan2025 22:06:23.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[24Jan2025 22:06:23.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Jan2025 22:06:24.021] [main/INFO] [Biomancy/ModsCompatHandler]: Setup Alex's Caves compat...
+[24Jan2025 22:06:24.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[24Jan2025 22:06:24.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
+[24Jan2025 22:06:24.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA Current: 2.8.19.0 Target: 2.8.19.0
+[24Jan2025 22:06:24.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jan2025 22:06:24.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[24Jan2025 22:06:24.414] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 24 compatible attributes.
+[24Jan2025 22:06:24.420] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 24 values from config.
+[24Jan2025 22:06:24.436] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 24 entries.
+[24Jan2025 22:06:24.437] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 24 attributes.
+[24Jan2025 22:06:24.467] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Jan2025 22:06:24.486] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Jan2025 22:06:24.491] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Jan2025 22:06:24.734] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.735] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.736] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.736] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.737] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.737] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.738] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.738] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.739] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.739] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.740] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.742] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.743] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.743] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.744] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.744] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.745] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.747] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.747] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.748] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.750] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.752] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.753] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.753] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.754] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.754] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.755] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.756] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.759] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.769] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.778] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:24.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:24.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.195] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[24Jan2025 22:06:25.198] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[24Jan2025 22:06:25.198] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[24Jan2025 22:06:25.236] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jan2025 22:06:25.554] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.555] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.556] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.556] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.556] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.560] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.566] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.567] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.571] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.571] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.572] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.578] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.579] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.579] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.580] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.580] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.676] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.677] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.678] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.682] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.684] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.684] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.684] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.684] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.686] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.686] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.686] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.687] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[24Jan2025 22:06:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[24Jan2025 22:06:25.864] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[24Jan2025 22:06:25.864] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[24Jan2025 22:06:29.061] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[24Jan2025 22:06:29.111] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Jan2025 22:06:29.346] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[24Jan2025 22:06:30.591] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[24Jan2025 22:06:32.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[24Jan2025 22:06:32.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[24Jan2025 22:06:32.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[24Jan2025 22:06:33.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[24Jan2025 22:06:33.273] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2286 advancements
+[24Jan2025 22:06:33.481] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[24Jan2025 22:06:33.486] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[24Jan2025 22:06:33.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jan2025 22:06:33.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jan2025 22:06:33.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jan2025 22:06:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jan2025 22:06:33.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jan2025 22:06:33.987] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jan2025 22:06:34.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jan2025 22:06:34.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jan2025 22:06:34.096] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jan2025 22:06:34.096] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jan2025 22:06:34.126] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jan2025 22:06:34.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jan2025 22:06:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jan2025 22:06:35.807] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:36.365] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:37.128] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:37.866] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:38.210] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.218] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.219] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.219] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.219] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.220] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.220] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.300] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:38.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 22:06:39.468] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4672 ms
+[24Jan2025 22:06:39.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.355s)! For help, type "help"
+[24Jan2025 22:06:39.532] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jan2025 22:06:39.624] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Jan2025 22:06:41.157] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:43.048] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:43.125] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jan2025 22:06:43.245] [Server thread/WARN] [ModernFix/]: Dedicated server took 54.65 seconds to load
+[24Jan2025 22:06:52.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:53865] logged in with entity id 88 at (-171.69999998807907, 109.0, -687.458594641163)
+[24Jan2025 22:06:52.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[24Jan2025 22:06:52.646] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[24Jan2025 22:06:55.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jan2025 22:07:22.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[24Jan2025 22:07:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[24Jan2025 22:07:39.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:55949] logged in with entity id 325 at (-155.85976493784224, 113.1212968405392, -674.5862218727594)
+[24Jan2025 22:07:39.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[24Jan2025 22:07:39.627] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[24Jan2025 22:09:11.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:45479] logged in with entity id 686 at (1162.2464094779682, 71.0, 803.8852034482442)
+[24Jan2025 22:09:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[24Jan2025 22:09:11.170] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[24Jan2025 22:09:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
+[24Jan2025 22:09:36.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=96, z=9}
+[24Jan2025 22:09:38.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:47369] logged in with entity id 1149 at (-164.51532646978208, 110.0, -663.7243864711088)
+[24Jan2025 22:09:38.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[24Jan2025 22:09:38.671] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[24Jan2025 22:09:48.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=100, z=13}
+[24Jan2025 22:09:49.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=102, z=15}
+[24Jan2025 22:11:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was doomed to fall
+[24Jan2025 22:11:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[24Jan2025 22:11:41.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[24Jan2025 22:11:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[24Jan2025 22:12:00.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[24Jan2025 22:13:35.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Snow Leopard
+[24Jan2025 22:14:29.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Dinosaurios", x:-2481, y:-17, z:-3611, dim:minecraft:overworld]
+[24Jan2025 22:14:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place

@@ -3923,33 +3923,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-01-23 00:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
-    },
-    "done": true
-  },
-  "illageandspillage:kill_freaky": {
-    "criteria": {
-      "requirement": "2025-01-23 01:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-01-23 00:33:54 +0000"
     },
     "done": true
   },
@@ -3962,6 +3938,30 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-23 00:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-23 00:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-01-23 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-01-23 01:06:24 +0000"
     },
     "done": true
   },

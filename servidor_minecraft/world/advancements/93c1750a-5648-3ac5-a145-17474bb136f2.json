@@ -1836,9 +1836,9 @@
     },
     "done": false
   },
-  "biomancy:recipes/biomancy/decomposing/totem_of_undying": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_totem_of_undying": "2025-01-23 00:52:16 +0000"
+      "voluntary_exile": "2025-01-23 00:28:31 +0000"
     },
     "done": true
   },
@@ -1848,51 +1848,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-23 00:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-23 00:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-23 00:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-01-23 00:37:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-01-23 00:33:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
-      "has_bow": "2025-01-23 00:45:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primitive_club": {
-    "criteria": {
-      "limestone": "2025-01-23 00:52:25 +0000"
+      "has_gunpowder": "2025-01-23 00:37:45 +0000"
     },
     "done": true
   },
@@ -1905,6 +1869,42 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-23 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-23 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-23 00:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-23 00:51:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-23 00:52:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-01-23 00:52:25 +0000"
     },
     "done": true
   },

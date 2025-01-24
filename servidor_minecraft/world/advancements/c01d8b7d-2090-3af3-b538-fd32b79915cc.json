@@ -2674,18 +2674,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-23 00:41:23 +0000"
-    },
-    "done": true
-  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-01-23 00:40:53 +0000",
@@ -2698,6 +2686,18 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-01-23 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-23 00:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-23 00:49:19 +0000"
     },
     "done": true
   },
