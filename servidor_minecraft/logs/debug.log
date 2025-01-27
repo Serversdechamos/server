@@ -2498,3 +2498,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jan2025 01:31:28.510] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 285 classes
 [27Jan2025 01:31:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
 [27Jan2025 01:31:28.527] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[27Jan2025 01:33:59.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:33:59.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 01:38:58.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:38:58.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 01:43:58.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:43:58.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
