@@ -3965,75 +3965,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_slab": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/primal_flesh_slab": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_stairs_from_porous_primal_flesh": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_stairs": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_wall_from_primal_flesh": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/malignant_flesh": {
     "criteria": {
       "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/misc/crafting/primal_permeable_membrane_pane_from_primal_permeable_membrane": {
-    "criteria": {
-      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-24 23:15:19 +0000"
     },
     "done": true
   },
@@ -4043,9 +3977,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_wall_from_malignant_flesh": {
     "criteria": {
-      "has_ancient_debris": "2025-01-24 22:52:55 +0000"
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_stairs": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/malignant_growth": {
+    "criteria": {
+      "has_malignant_block": "2025-01-24 22:12:39 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/building_blocks/crafting/malignant_flesh_wall": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_stairs_from_malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_slab_from_malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primal_flesh": {
+    "criteria": {
+      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_slab": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_wall_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
     },
     "done": true
   },
@@ -4055,27 +4037,255 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/porous_primal_flesh": {
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_wall": {
     "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_stairs_from_primal_flesh": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_wall_from_malignant_flesh": {
+  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_slab_from_primal_flesh": {
     "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/primal_flesh_stairs": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_from_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh": {
+    "criteria": {
+      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/malignant_flesh_stairs": {
+    "criteria": {
+      "has_malignant_flesh_stairs": "2025-01-24 22:12:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_slab": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_stairs": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_wall": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_stairs_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_wall_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_slab_from_smooth_primal_flesh": {
+    "criteria": {
+      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primal_permeable_membrane_pane_from_primal_permeable_membrane": {
+    "criteria": {
+      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/primal_permeable_membrane": {
+    "criteria": {
+      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
     },
     "done": true
   },
   "biomancy:recipes/building_blocks/crafting/malignant_flesh_from_slabs": {
     "criteria": {
       "has_malignant_flesh_slab": "2025-01-24 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/malignant_flesh_slab": {
+    "criteria": {
+      "has_malignant_flesh_slab": "2025-01-24 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_stairs_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_stairs": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_wall": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_wall_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_slab_from_porous_primal_flesh": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_slab": {
+    "criteria": {
+      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-24 22:41:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-24 22:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-24 22:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-24 22:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-24 22:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-24 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
     },
     "done": true
   },
@@ -4091,61 +4301,73 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-24 23:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-24 23:03:35 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_stairs": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-24 22:52:55 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_lava_eater": {
-    "criteria": {
-      "lava_eater": "2025-01-24 23:05:04 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/malignant_flesh_stairs": {
-    "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
     },
@@ -4157,45 +4379,33 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "biomancy:recipes/biomancy/decomposing/netherite_scrap": {
     "criteria": {
-      "ancient_debris": "2025-01-24 22:52:55 +0000"
+      "has_netherite_scrap": "2025-01-24 23:00:14 +0000"
     },
     "done": true
   },
-  "biomancy:biomancy/malignant_growth": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_malignant_block": "2025-01-24 22:12:39 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-01-24 22:53:35 +0000"
+      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/combat/healing_quiver": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
+      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "has_nether_wart": "2025-01-24 23:03:35 +0000"
+      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/malignant_flesh_slab": {
-    "criteria": {
-      "has_malignant_flesh_slab": "2025-01-24 22:17:58 +0000"
+      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
     },
     "done": true
   },
@@ -4205,27 +4415,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh_wall": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_lava_eater": {
-    "criteria": {
-      "ambusher": "2025-01-24 23:05:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/malignant_flesh_wall": {
-    "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
     },
     "done": true
   },
@@ -4247,75 +4439,9 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/healer_necklace": {
-    "criteria": {
-      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-01-24 22:41:37 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_stairs_from_malignant_flesh": {
-    "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_wall": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/ghast_tear": {
-    "criteria": {
-      "has_ghast_tear": "2025-01-24 22:38:52 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/primal_flesh_wall": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_stairs_from_primal_flesh": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/nether_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-01-24 23:03:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/smooth_primal_flesh": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
     },
     "done": true
   },
@@ -4325,27 +4451,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+      "has_nether_wart": "2025-01-24 23:03:35 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/stonecutting/primal_flesh_slab_from_primal_flesh": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+      "has_nether_wart": "2025-01-24 23:03:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "biomancy:recipes/biomancy/decomposing/nether_wart": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+      "has_nether_wart": "2025-01-24 23:03:35 +0000"
     },
     "done": true
   },
@@ -4355,63 +4481,21 @@
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_stairs_from_smooth_primal_flesh": {
+  "legendary_monsters:locate_lava_eater": {
     "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
+      "lava_eater": "2025-01-24 23:05:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "legendary_monsters:defeat_lava_eater": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
+      "ambusher": "2025-01-24 23:05:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_wall_from_porous_primal_flesh": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/malignant_flesh_stairs": {
-    "criteria": {
-      "has_malignant_flesh_stairs": "2025-01-24 22:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_wall_from_smooth_primal_flesh": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-24 22:54:18 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
+      "has_smithing_trim_template": "2025-01-24 23:06:40 +0000"
     },
     "done": true
   },
@@ -4421,93 +4505,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/building_blocks/stonecutting/malignant_flesh_slab_from_malignant_flesh": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/primal_flesh_stairs": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2025-01-24 22:52:10 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/misc/crafting/primal_flesh": {
-    "criteria": {
-      "has_malignant_flesh": "2025-01-24 22:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 23:00:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_from_primal_flesh": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/primal_permeable_membrane": {
-    "criteria": {
-      "has_primal_permeable_membrane": "2025-01-24 22:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/netherite_scrap": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-24 23:00:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/porous_primal_flesh_slab_from_porous_primal_flesh": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/smooth_primal_flesh": {
-    "criteria": {
-      "has_primal_flesh": "2025-01-24 22:12:49 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/stonecutting/smooth_primal_flesh_slab_from_smooth_primal_flesh": {
-    "criteria": {
-      "has_smooth_primal_flesh": "2025-01-24 22:15:05 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/building_blocks/crafting/porous_primal_flesh_slab": {
-    "criteria": {
-      "has_porous_primal_flesh": "2025-01-24 22:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-24 22:54:22 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-01-24 23:15:19 +0000"
     },
     "done": true
   },
