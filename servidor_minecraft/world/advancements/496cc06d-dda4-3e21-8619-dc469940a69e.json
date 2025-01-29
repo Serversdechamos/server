@@ -4422,15 +4422,69 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "portablemobs:captureadvancement": {
     "criteria": {
       "capture": "2025-01-29 00:40:18 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/food/bejeweled_apple": {
     "criteria": {
       "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-01-29 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
+    "criteria": {
+      "has_moss_carpet": "2025-01-29 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-29 00:50:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
     },
     "done": true
   },
@@ -4458,9 +4512,27 @@
     },
     "done": true
   },
+  "portablemobs:recipes/misc/basic_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/decorations/golden_bars": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
     },
     "done": true
   },
@@ -4476,9 +4548,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/spinel_bricks": {
     "criteria": {
       "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-01-29 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tiles_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-29 00:53:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-01-29 00:54:58 +0000"
     },
     "done": true
   },
@@ -4494,9 +4596,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/master_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-01-29 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-29 00:53:08 +0000"
     },
     "done": true
   },
@@ -4518,15 +4638,69 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/spinel_block": {
     "criteria": {
       "has_spinel": "2025-01-29 00:36:05 +0000"
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/cupric_campfire": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
   "portablemobs:mastercelladvancement": {
     "criteria": {
       "mastercell": "2025-01-29 00:40:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-29 00:54:35 +0000"
     },
     "done": true
   },
