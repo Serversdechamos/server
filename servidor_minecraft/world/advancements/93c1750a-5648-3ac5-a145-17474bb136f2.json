@@ -2196,6 +2196,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-01-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-29 22:49:36 +0000"
@@ -2316,6 +2322,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/dripstone_shingle_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-01-29 22:57:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-01-29 22:45:36 +0000"
@@ -2364,6 +2376,18 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coal": "2025-01-29 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/dripstone_shingle_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-01-29 22:57:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-01-29 22:49:36 +0000"
@@ -2394,9 +2418,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-29 22:57:09 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
     "criteria": {
       "has_skeleton_skull": "2025-01-29 22:48:59 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/chiseled_dripstone_shingles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-01-29 22:57:00 +0000"
     },
     "done": true
   },
@@ -2487,6 +2523,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-29 23:03:37 +0000"
     },
     "done": true
   },
@@ -2583,6 +2625,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-29 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/dripstone_shingles": {
+    "criteria": {
+      "has_dripstone": "2025-01-29 22:57:00 +0000"
     },
     "done": true
   },
@@ -2766,6 +2814,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-01-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-29 22:49:36 +0000"
@@ -2820,9 +2874,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/dripstone_shingles_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-01-29 22:57:00 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks": {
     "criteria": {
       "has_cobblestone": "2025-01-29 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-01-29 23:06:09 +0000"
     },
     "done": true
   },
@@ -2841,6 +2907,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/dripstone_shingle_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-01-29 22:57:00 +0000"
     },
     "done": true
   },
@@ -2889,6 +2961,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-29 22:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-29 22:57:09 +0000"
     },
     "done": true
   },

@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-19 01:58:17 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-29 22:56:25 +0000",
       "minecraft:taiga": "2025-01-19 02:41:31 +0000",
       "minecraft:frozen_river": "2025-01-19 01:57:49 +0000",
       "minecraft:birch_forest": "2025-01-19 03:06:42 +0000",
@@ -2891,6 +2892,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-29 23:06:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -2906,6 +2913,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/transportation/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 22:56:13 +0000"
     },
     "done": true
   },
@@ -2972,6 +2985,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
     },
     "done": true
   },
@@ -3083,6 +3102,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3101,9 +3126,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coal": "2025-01-29 23:03:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-29 23:06:23 +0000"
     },
     "done": true
   },
@@ -3161,6 +3198,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/misc/bejeweled_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-29 23:05:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3197,6 +3240,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_oak_planks": "2025-01-29 22:52:20 +0000"
@@ -3218,6 +3267,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-01-29 23:03:19 +0000"
     },
     "done": true
   },
@@ -3278,6 +3333,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobblestone_tile_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
     },
     "done": true
   },
@@ -3359,9 +3420,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tiles_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
     },
     "done": true
   },
@@ -3404,6 +3477,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
     },
     "done": true
   },
@@ -3455,6 +3534,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3491,6 +3576,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3524,6 +3615,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 22:57:44 +0000"
     },
     "done": true
   },
