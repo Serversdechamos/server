@@ -666,6 +666,7 @@
       "minecraft:stray": "2025-01-19 02:17:56 +0000",
       "minecraft:enderman": "2025-01-21 00:34:40 +0000",
       "minecraft:vex": "2025-01-21 16:49:54 +0000",
+      "caverns_and_chasms:mime": "2025-01-29 00:35:56 +0000",
       "minecraft:zombie": "2025-01-19 01:40:20 +0000",
       "minecraft:drowned": "2025-01-23 00:50:11 +0000",
       "minecraft:zombie_villager": "2025-01-21 13:34:43 +0000"
@@ -4421,9 +4422,33 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-01-29 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/food/bejeweled_apple": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/blunt_arrow": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/decorations/lava_lamp": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-01-29 00:40:20 +0000"
     },
     "done": true
   },
@@ -4439,15 +4464,69 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-01-29 00:38:57 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/bejeweled_pearl": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/spinel_bricks": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_soul_sand": "2025-01-29 00:26:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-01-29 00:01:19 +0000"
     },
     "done": true
   },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-01-29 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/sugilite": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/tmt": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/spinel_block": {
+    "criteria": {
+      "has_spinel": "2025-01-29 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-01-29 00:40:16 +0000"
     },
     "done": true
   },

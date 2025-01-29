@@ -7,3 +7,12 @@
 [29Jan2025 00:10:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [29Jan2025 00:10:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [29Jan2025 00:19:36.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 00:25:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 00:29:51.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4367, l='ServerLevel[world]', x=-203.30, y=97.00, z=-818.85] died, message: 'Unemployed was slain by Zombie'
+[29Jan2025 00:37:05.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 00:37:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 00:38:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Tyrant King]
+[29Jan2025 00:40:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 00:40:16.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Gotta Capture Them All!]
+[29Jan2025 00:40:18.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capture a mob using a Capture Cell]
+[29Jan2025 00:40:20.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capturing Mobs]
