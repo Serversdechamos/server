@@ -496,3 +496,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Jan2025 23:07:24.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
 [29Jan2025 23:08:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
 [29Jan2025 23:08:26.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Don't. Move.]
+[29Jan2025 23:10:17.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[29Jan2025 23:10:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:11:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:11:38.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to aarincha_20160]
+[29Jan2025 23:12:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[29Jan2025 23:12:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:12:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:13:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:13:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:14:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:14:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:14:33.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
+[29Jan2025 23:14:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
+[29Jan2025 23:14:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> mira
+[29Jan2025 23:15:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> esto sirve para hacer ender pels mejores y flechas
+[29Jan2025 23:15:54.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> tambien un nuevo tipo de manzana
+[29Jan2025 23:16:00.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ooooh ya ya
+[29Jan2025 23:18:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:18:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:19:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Spear of Ages]
+[29Jan2025 23:19:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:19:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:19:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:19:50.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]

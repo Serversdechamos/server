@@ -1455,6 +1455,7 @@
       "minecraft:spider": "2025-01-19 03:25:02 +0000",
       "minecraft:creeper": "2025-01-19 23:08:44 +0000",
       "minecraft:evoker": "2025-01-23 00:42:30 +0000",
+      "caverns_and_chasms:peeper": "2025-01-29 23:07:43 +0000",
       "minecraft:witch": "2025-01-23 00:40:47 +0000",
       "minecraft:wither_skeleton": "2025-01-24 23:19:48 +0000",
       "minecraft:piglin": "2025-01-24 23:10:54 +0000",
@@ -2952,6 +2953,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/spatula": {
     "criteria": {
       "has_leather": "2025-01-29 22:52:20 +0000"
@@ -2961,6 +2968,18 @@
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/dark_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -2976,9 +2995,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_toaster": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -2991,6 +3022,12 @@
   "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/food/bejeweled_apple": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
     },
     "done": true
   },
@@ -3024,15 +3061,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_microwave": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_stove": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -3045,6 +3106,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/blunt_arrow": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
     },
     "done": true
   },
@@ -3084,6 +3157,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3099,6 +3184,12 @@
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
     },
     "done": true
   },
@@ -3150,6 +3241,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-01-29 22:52:20 +0000"
@@ -3159,6 +3256,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -3210,9 +3313,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -3225,6 +3346,24 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/light_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/spinel_bricks": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
     },
     "done": true
   },
@@ -3258,6 +3397,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_fridge": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3270,9 +3415,33 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-01-29 23:03:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
@@ -3330,6 +3499,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/sugilite": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3345,6 +3520,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/tmt": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
     },
     "done": true
   },
@@ -3384,6 +3565,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/doorbell": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3393,6 +3592,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/spinel_block": {
+    "criteria": {
+      "has_spinel": "2025-01-29 23:14:50 +0000"
     },
     "done": true
   },
@@ -3450,6 +3655,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3483,6 +3694,18 @@
   "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks": {
     "criteria": {
       "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-01-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
     },
     "done": true
   },
@@ -3534,9 +3757,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-29 22:57:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:10:37 +0000"
     },
     "done": true
   },
@@ -3636,6 +3871,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
@@ -3651,6 +3892,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/depth_gauge": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:12:24 +0000"
     },
     "done": true
   },
