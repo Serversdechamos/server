@@ -4434,6 +4434,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/transportation/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 00:56:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-29 00:54:35 +0000"
@@ -4446,9 +4452,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/trilocaris_tail": {
+    "criteria": {
+      "has_trilocaris_tail": "2025-01-29 00:56:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-01-29 01:02:33 +0000"
     },
     "done": true
   },
@@ -4569,6 +4587,12 @@
   "caverns_and_chasms:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-01-29 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-01-29 00:59:29 +0000"
     },
     "done": true
   },

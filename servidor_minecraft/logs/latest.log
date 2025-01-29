@@ -33,3 +33,10 @@
 [29Jan2025 00:52:50.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2440, y=-40, z=-3620} BlockPos{x=-2441, y=-41, z=-3620}
 [29Jan2025 00:53:49.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2413, y=-39, z=-3640} BlockPos{x=-2412, y=-39, z=-3639}
 [29Jan2025 00:54:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The End... of the Beginning]
+[29Jan2025 00:55:49.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[29Jan2025 00:57:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 00:59:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ghost! Ghost! Toast?]
+[29Jan2025 01:02:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Prehistoric Elytra]
+[29Jan2025 01:03:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 01:03:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 01:03:41.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
