@@ -3320,3 +3320,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jan2025 00:11:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Was that a Shulker?]
 [30Jan2025 00:11:45.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 00:11:45.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:12:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 00:12:15.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:13:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 00:13:35.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:13:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The City at the End of the Game]
+[30Jan2025 00:14:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 00:14:09.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:14:11.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[30Jan2025 00:14:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:15:12.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[30Jan2025 00:15:12.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[30Jan2025 00:16:45.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:16:45.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:20:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Enderman
+[30Jan2025 00:20:07.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[30Jan2025 00:20:07.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[30Jan2025 00:21:45.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:21:45.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
