@@ -2917,3 +2917,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jan2025 23:07:54.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [30Jan2025 23:09:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [30Jan2025 23:09:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 23:10:28.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:10:28.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:10:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Capture a mob using a Capture Cell]
+[30Jan2025 23:12:42.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8167, l='ServerLevel[world]', x=-174.35, y=111.00, z=-695.57] died, message: 'Unemployed was slain by Vallumraptor'
+[30Jan2025 23:15:28.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:15:28.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:19:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Chorus Infection]
