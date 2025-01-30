@@ -4828,21 +4828,297 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
     "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
+      "has_rotten_flesh": "2025-01-29 22:59:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+  "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
+      "silk_touch_nest": "2025-01-29 23:01:27 +0000"
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "citadel": "2025-01-30 00:03:24 +0000"
+      "kill_mimic": "2025-01-29 23:02:45 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-01-29 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/amber_curiosity": {
+    "criteria": {
+      "has_amber_curiosity": "2025-01-29 23:18:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-01-29 23:19:09 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/transportation/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/netherite_nugget": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-29 23:21:56 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/netherite_horse_armor_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-29 23:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-29 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blaze_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobblestone_tile_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tiles_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 23:24:37 +0000"
     },
     "done": true
   },
@@ -4855,54 +5131,6 @@
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/silver_boots": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-01-30 00:08:13 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -4930,27 +5158,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-01-29 23:57:30 +0000"
     },
     "done": true
   },
@@ -4960,33 +5170,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-29 23:57:30 +0000"
     },
     "done": true
   },
@@ -5008,12 +5200,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-01-29 23:25:21 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
@@ -5026,93 +5212,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-29 23:24:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/misc/living_flesh": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/cosmic_cod": {
-    "criteria": {
-      "has_cosmic_cod": "2025-01-30 00:08:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -5128,45 +5230,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/dragon_egg": {
-    "criteria": {
-      "has_dragon_egg": "2025-01-29 23:57:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/tools/silver_shovel": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
     },
     "done": true
   },
@@ -5188,27 +5260,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/misc/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
     },
     "done": true
   },
@@ -5218,33 +5272,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
     },
     "done": true
   },
@@ -5254,39 +5284,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -5302,57 +5302,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/tools/silver_pickaxe": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -5368,27 +5320,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_shulker_tower": {
-    "criteria": {
-      "tower": "2025-01-30 00:01:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
     },
     "done": true
   },
@@ -5398,39 +5332,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-01-30 00:05:12 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -5440,57 +5344,9 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/decorations/silver_bars": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/decorations/brazier": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_frostbitten_temple": {
-    "criteria": {
-      "frostbitten_temple": "2025-01-29 23:35:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-29 22:59:08 +0000"
     },
     "done": true
   },
@@ -5500,129 +5356,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/silver_chestplate": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-01-29 23:58:36 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/ender_eye": {
-    "criteria": {
-      "has_ender_eye": "2025-01-29 23:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-29 23:57:30 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/tools/silver_axe": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/blaze_powder": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-01-29 23:48:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2025-01-30 00:11:24 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/blaze_rod": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/silver_helmet": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2025-01-29 23:26:11 +0000"
     },
     "done": true
   },
@@ -5638,48 +5380,6 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/redstone/medium_weighted_pressure_plate": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/extinction_spear": {
-    "criteria": {
-      "dreadbow": "2025-01-29 23:19:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-29 23:25:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
@@ -5692,51 +5392,9 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/decorations/cupric_brazier": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/fiery_quiver": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-01-30 00:02:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-01-29 23:51:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
     },
     "done": true
   },
@@ -5764,45 +5422,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-29 23:02:45 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -5818,36 +5446,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/silver_sword": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
@@ -5857,12 +5455,6 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
     },
     "done": true
   },
@@ -5878,57 +5470,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_shulker_mimic": {
-    "criteria": {
-      "shulker_mimic": "2025-01-30 00:02:23 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/amber_curiosity": {
-    "criteria": {
-      "has_amber_curiosity": "2025-01-29 23:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-01-29 23:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/silk_touch_nest": {
-    "criteria": {
-      "silk_touch_nest": "2025-01-29 23:01:27 +0000"
     },
     "done": true
   },
@@ -5938,39 +5482,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-01-29 23:54:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/decorations/cobblestone_tile_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
     },
     "done": true
   },
@@ -5992,33 +5512,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/misc/netherite_nugget": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-29 23:21:56 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/tools/silver_hoe": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
     },
     "done": true
   },
@@ -6034,18 +5530,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
@@ -6055,36 +5539,6 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/transportation/azalea_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_frostbitten_golem": {
-    "criteria": {
-      "frostbitten_golem": "2025-01-29 23:35:36 +0000"
     },
     "done": true
   },
@@ -6100,81 +5554,9 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-01-29 23:26:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/decorations/cobblestone_brick_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_tiles_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/large_arrow": {
-    "criteria": {
-      "has_silver": "2025-01-30 00:03:49 +0000"
     },
     "done": true
   },
@@ -6184,39 +5566,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
-    "criteria": {
-      "has_andesite": "2025-01-29 23:47:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-29 23:28:22 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
     },
     "done": true
   },
@@ -6232,99 +5590,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/shulker_shell": {
-    "criteria": {
-      "has_shulker_shell": "2025-01-30 00:02:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/ice": {
-    "criteria": {
-      "has_ingredient": "2025-01-29 23:26:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_bricks": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:adventure/dont_move": {
-    "criteria": {
-      "spotted_by_peeper": "2025-01-29 23:04:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/silver_leggings": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -6334,69 +5602,9 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-01-30 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-01-29 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:46:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_tile_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
-    "criteria": {
-      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
@@ -6418,6 +5626,372 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-29 23:25:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ender_eye": {
+    "criteria": {
+      "has_ender_eye": "2025-01-29 23:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-29 23:25:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_planks": "2025-01-29 23:25:52 +0000"
@@ -6430,33 +6004,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-29 23:51:27 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/tuff": {
-    "criteria": {
-      "has_stone": "2025-01-29 23:58:29 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
     },
     "done": true
   },
@@ -6478,39 +6028,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-01-29 23:25:52 +0000"
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-29 23:24:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-01-29 23:25:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
     },
     "done": true
   },
@@ -6526,9 +6052,321 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
     "criteria": {
-      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-29 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-01-29 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-29 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-29 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-01-29 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-01-29 23:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-29 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-01-29 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_bricks": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-29 23:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-29 23:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-29 23:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-29 23:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-29 23:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 23:57:30 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/dragon_egg": {
+    "criteria": {
+      "has_dragon_egg": "2025-01-29 23:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 23:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 23:57:30 +0000"
     },
     "done": true
   },
@@ -6544,51 +6382,213 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+  "caverns_and_chasms:recipes/building_blocks/tuff": {
     "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+      "has_stone": "2025-01-29 23:58:29 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
+      "entered_end_gateway": "2025-01-29 23:58:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "legendary_monsters:locate_shulker_tower": {
     "criteria": {
-      "has_blaze_rod": "2025-01-29 23:24:18 +0000"
+      "tower": "2025-01-30 00:01:53 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
-      "has_glowstone_dust": "2025-01-29 23:20:25 +0000"
+      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/combat/netherite_horse_armor_smithing": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-29 23:21:56 +0000"
+      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
-      "has_iron_ingot": "2025-01-29 23:25:02 +0000"
+      "has_end_stone_bricks": "2025-01-30 00:02:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-29 23:25:52 +0000"
+      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-30 00:02:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_shulker_mimic": {
+    "criteria": {
+      "shulker_mimic": "2025-01-30 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-30 00:02:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/shulker_shell": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-30 00:02:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-30 00:03:24 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/living_flesh": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/silver_bars": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/brazier": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/medium_weighted_pressure_plate": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cupric_brazier": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/silver_sword": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/large_arrow": {
+    "criteria": {
+      "has_silver": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-30 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-30 00:05:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-01-30 00:08:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cosmic_cod": {
+    "criteria": {
+      "has_cosmic_cod": "2025-01-30 00:08:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-01-30 00:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-30 00:13:57 +0000"
     },
     "done": true
   },
