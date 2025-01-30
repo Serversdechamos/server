@@ -2924,3 +2924,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jan2025 23:15:28.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 23:15:28.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 23:19:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Chorus Infection]
+[30Jan2025 23:20:05.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ender Distancing]
+[30Jan2025 23:20:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capsid-19]
+[30Jan2025 23:20:28.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:20:28.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:20:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Far Away From Home]
+[30Jan2025 23:21:18.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The Tall Guy]
+[30Jan2025 23:22:31.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[30Jan2025 23:24:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Sky's the Limit]
+[30Jan2025 23:24:02.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 23:24:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[30Jan2025 23:25:28.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:25:28.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:26:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell out of the world
+[30Jan2025 23:27:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[30Jan2025 23:27:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 fell out of the world
+[30Jan2025 23:27:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]

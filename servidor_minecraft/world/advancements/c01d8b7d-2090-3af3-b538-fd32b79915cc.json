@@ -4731,6 +4731,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-30 23:24:23 +0000"
+    },
+    "done": true
+  },
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-01-30 23:06:24 +0000"
@@ -4770,6 +4776,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-30 22:57:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-30 23:20:36 +0000"
     },
     "done": true
   },
@@ -4872,6 +4884,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-01-30 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-30 23:20:36 +0000"
     },
     "done": true
   },

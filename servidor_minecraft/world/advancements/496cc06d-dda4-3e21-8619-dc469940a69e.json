@@ -6592,5 +6592,47 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-01-30 23:20:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_chorusling": {
+    "criteria": {
+      "chorusling": "2025-01-30 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-30 23:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-30 23:24:01 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_endersent": {
+    "criteria": {
+      "endersent": "2025-01-30 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-01-30 23:20:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_flower": {
+    "criteria": {
+      "has_chorus_flower": "2025-01-30 23:21:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
