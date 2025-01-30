@@ -3037,6 +3037,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-29 23:50:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_redstone": "2025-01-29 23:12:24 +0000"
@@ -3343,6 +3349,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/combat/kunai": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-29 23:50:12 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
     "criteria": {
       "has_rotten_flesh": "2025-01-29 23:06:23 +0000"
@@ -3400,6 +3412,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-29 23:49:01 +0000"
     },
     "done": true
   },
@@ -3496,6 +3514,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-29 23:51:14 +0000"
     },
     "done": true
   },
@@ -4078,6 +4102,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_planks": "2025-01-29 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-29 23:51:14 +0000"
     },
     "done": true
   },

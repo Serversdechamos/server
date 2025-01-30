@@ -3257,3 +3257,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Jan2025 23:48:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [29Jan2025 23:48:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Eye Spy]
 [29Jan2025 23:49:01.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Eye Spy]
+[29Jan2025 23:51:14.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [The End?]
+[29Jan2025 23:51:14.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3687ms or 73 ticks behind
+[29Jan2025 23:51:19.726] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[29Jan2025 23:51:19.727] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[29Jan2025 23:51:27.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The End?]
+[29Jan2025 23:51:28.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 2071.090767735177,64.46415937495544,368.22794194501415
+[29Jan2025 23:51:33.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
+[29Jan2025 23:51:41.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 23:51:41.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 23:54:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[29Jan2025 23:54:11.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[29Jan2025 23:54:13.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [You Need a Mint]
+[29Jan2025 23:55:29.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> porque me pegaste
+[29Jan2025 23:55:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was killed by Ender Dragon using magic
+[29Jan2025 23:56:08.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 2070.806803585915,64.26590000152588,368.7115883887457
+[29Jan2025 23:56:41.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 23:56:41.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 23:56:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Free the End]
+[29Jan2025 23:57:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Biceps Required]
+[29Jan2025 23:57:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [The Next Generation]
+[29Jan2025 23:58:22.807] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel5 is being run through DFU (hash f760e92d1b0e922087b2c2ce77e9eae21a9ddc080e2b08cc374f5daf614c9cd7), this will cause launch time delays
+[29Jan2025 23:58:23.415] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel14 is being run through DFU (hash f6b07a6e95f8f46457e747f727872725582756da5910b39a6430cc679038b856), this will cause launch time delays
+[29Jan2025 23:58:24.007] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel6 is being run through DFU (hash ebd80a096c5b13e6fea284e961b1c97b3c24c782e536609c1a0f14c8b22a0638), this will cause launch time delays
+[29Jan2025 23:58:24.139] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel15 is being run through DFU (hash bdd0b478476e695a49c18804e08699e09c5a557e27d1ee1e93b1bd7ec4aa8821), this will cause launch time delays
+[29Jan2025 23:58:24.330] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel4 is being run through DFU (hash 0f8323415d9b378538f4bacd8cbc6e34b9030b7fbbc4baaf48d45a63d1a8feca), this will cause launch time delays
+[29Jan2025 23:58:24.630] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel13 is being run through DFU (hash e856a6d0abab7d6d830df9a7644e308eddfe7d4cf7c766d8819e14e09bd6927a), this will cause launch time delays
+[29Jan2025 23:58:24.749] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel2 is being run through DFU (hash c892f45c824ecd31d15de9a086ea330c78362b864db3ad23a92a573a796e9262), this will cause launch time delays
+[29Jan2025 23:58:24.883] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel11 is being run through DFU (hash 0f9681aab747a7569192298ca6c9492f1d54218c57b3cefc48e7e935f886e613), this will cause launch time delays
+[29Jan2025 23:58:25.004] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel8 is being run through DFU (hash cf43aea391acc6ba5266ac8ce280b5638e147fd494e65c6d85a5540919c1acb8), this will cause launch time delays
+[29Jan2025 23:58:25.228] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel17 is being run through DFU (hash f908c8db32ad0f01a3083dc2d794bc7ac1adf4587e53238bdcfeca892c64aeec), this will cause launch time delays
+[29Jan2025 23:58:25.307] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel1 is being run through DFU (hash 6949334b931aacbfc072e9f6b0a1fd8bc9d326b8114aed2538a08e8923cd8558), this will cause launch time delays
+[29Jan2025 23:58:25.380] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel10 is being run through DFU (hash d05333de3ddcf2ec40ed4fe2601c3b7ac41247543e75408d04615df083ffbe55), this will cause launch time delays
+[29Jan2025 23:58:25.481] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel3 is being run through DFU (hash 2cd506227306fabe9de492bb88f74b5eca5038727e05795fe6b6bb34dbec65fa), this will cause launch time delays
+[29Jan2025 23:58:25.523] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel12 is being run through DFU (hash a269ff037ff376e2e8529651c5c0bae1a4903d6322e094a0d92f8d8565a03e7f), this will cause launch time delays
+[29Jan2025 23:58:25.622] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel9 is being run through DFU (hash 06f4088a09a33a9fda1450a9bd389a3a00acebc44ee1e37fa0cdb7639705d6f4), this will cause launch time delays
+[29Jan2025 23:58:25.673] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel18 is being run through DFU (hash f6bb6d4712918e3f766e2b28ce8eefa35f995e3d102ac7e1723ff02e09a678be), this will cause launch time delays
+[29Jan2025 23:58:25.736] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel7 is being run through DFU (hash b405ea6bdf6d9a186c2cc9718fe508d8ed8d59e3785428407f46a50c92e86d28), this will cause launch time delays
+[29Jan2025 23:58:25.781] [Worker-Main-27/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel16 is being run through DFU (hash c3a0075667cc96a9e603b4dbfb8651446d631e6db023453b6a977f9e6bcad14c), this will cause launch time delays
+[29Jan2025 23:58:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Remote Getaway]
+[29Jan2025 23:58:26.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[29Jan2025 23:58:36.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Remote Getaway]
+[30Jan2025 00:00:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 hit the ground too hard
