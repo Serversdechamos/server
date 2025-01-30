@@ -473,3 +473,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jan2025 23:27:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [30Jan2025 23:27:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 fell out of the world
 [30Jan2025 23:27:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 23:30:54.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bf8d593[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:59869) lost connection: Disconnected
+[30Jan2025 23:31:03.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51e65dab[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:35477) lost connection: Disconnected
+[30Jan2025 23:31:12.675] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11fe2022[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:57239) lost connection: Disconnected
+[30Jan2025 23:31:41.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63ff8193[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:60341) lost connection: Disconnected
+[30Jan2025 23:32:17.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b3bd51[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:33453) lost connection: Disconnected
+[30Jan2025 23:32:22.323] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b7bbd8a[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:50329) lost connection: Disconnected
+[30Jan2025 23:32:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was doomed to fall by Zombie
+[30Jan2025 23:33:09.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a51e35d[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:53865) lost connection: Disconnected
+[30Jan2025 23:33:43.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35ff68cf[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:34731) lost connection: Disconnected
+[30Jan2025 23:34:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Bison
+[30Jan2025 23:34:31.027] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bedcc1[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:58659) lost connection: Disconnected
+[30Jan2025 23:35:12.074] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63939c27[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:52927) lost connection: Disconnected
+[30Jan2025 23:35:28.979] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37a5a3b4[id=<null>,name=aarincha_20160,properties={},legacy=false] (/127.21.4.52:40589) lost connection: Disconnected
+[30Jan2025 23:36:38.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:50469] logged in with entity id 16156 at (-227.4036746742544, -28.978645247957047, -727.9061267105378)
+[30Jan2025 23:36:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[30Jan2025 23:36:38.301] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[30Jan2025 23:37:26.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[30Jan2025 23:38:00.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie

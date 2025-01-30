@@ -4743,6 +4743,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-01-30 23:33:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 23:05:49 +0000"
@@ -4866,6 +4872,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 23:05:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/large_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-30 23:33:53 +0000"
     },
     "done": true
   },
