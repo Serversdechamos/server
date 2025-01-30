@@ -452,3 +452,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jan2025 22:56:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [30Jan2025 22:57:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 tried to swim in lava
 [30Jan2025 22:58:03.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[30Jan2025 23:06:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Capturing Mobs]
+[30Jan2025 23:07:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 23:07:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[30Jan2025 23:07:54.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 23:09:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[30Jan2025 23:09:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
