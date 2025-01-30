@@ -3299,3 +3299,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Jan2025 23:58:26.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
 [29Jan2025 23:58:36.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Remote Getaway]
 [30Jan2025 00:00:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 hit the ground too hard
+[30Jan2025 00:01:45.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:01:45.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:01:53.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [There Is No Gravity Here!]
+[30Jan2025 00:02:23.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Spooky Scary Shulker Box]
+[30Jan2025 00:03:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Ruined Citadel]
+[30Jan2025 00:05:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Palette Swap]
+[30Jan2025 00:06:17.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 2071.457219668526,64.46415937495544,367.9167949269671
+[30Jan2025 00:06:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [A Ruined Citadel]
+[30Jan2025 00:06:45.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:06:45.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:07:12.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 00:07:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:08:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Weird Fishes/Arpeggi]
+[30Jan2025 00:08:21.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Endermaptera
+[30Jan2025 00:09:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[30Jan2025 00:09:58.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 2071.6046671561635,64.39260454995134,368.6679249757386
+[30Jan2025 00:10:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[30Jan2025 00:10:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> bos time
+[30Jan2025 00:11:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Was that a Shulker?]
+[30Jan2025 00:11:45.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:11:45.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
