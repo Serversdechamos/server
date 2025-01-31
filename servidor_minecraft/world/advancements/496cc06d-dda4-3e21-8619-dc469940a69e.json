@@ -52,6 +52,7 @@
       "minecraft:old_growth_birch_forest": "2025-01-19 03:04:09 +0000",
       "minecraft:deep_dark": "2025-01-19 22:56:27 +0000",
       "minecraft:meadow": "2025-01-19 00:59:55 +0000",
+      "minecraft:savanna": "2025-01-31 01:48:16 +0000",
       "minecraft:plains": "2025-01-19 00:58:02 +0000"
     },
     "done": false
@@ -6692,6 +6693,24 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
   "simplyswords:caelestis": {
     "criteria": {
       "requirement": "2025-01-31 01:37:14 +0000"
@@ -6710,15 +6729,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-01-31 01:24:51 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/mysterious_worm": {
     "criteria": {
       "mysterious_worm": "2025-01-31 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-31 01:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
     },
     "done": true
   },
@@ -6749,6 +6798,30 @@
   "alexsmobs:alexsmobs/void_worm_summon": {
     "criteria": {
       "ex": "2025-01-31 01:29:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/depth_gauge": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-31 01:47:55 +0000"
     },
     "done": true
   },
