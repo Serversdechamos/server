@@ -3085,3 +3085,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 23:29:44.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Jan2025 23:29:44.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [31Jan2025 23:31:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Parrots and the Bats]
+[31Jan2025 23:34:44.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Jan2025 23:34:44.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Jan2025 23:39:44.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Jan2025 23:39:44.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Jan2025 23:40:51.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[31Jan2025 23:41:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:41:44.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:41:57.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:42:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:42:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:42:55.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Flexible Schedule]
+[31Jan2025 23:43:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:43:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:43:27.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:43:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:43:49.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:43:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
+[31Jan2025 23:44:07.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=105, z=70} BlockPos{x=33, y=104, z=71}
