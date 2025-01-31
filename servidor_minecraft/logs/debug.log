@@ -3660,3 +3660,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 00:09:47.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 2.009145338430642,7.097077373875706,6.916854567805785
 [31Jan2025 00:10:28.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 00:10:28.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 00:13:24.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13358, l='ServerLevel[world]', x=-275.42, y=86.00, z=-577.50] died, message: 'Unemployed was slain by Zombie'
+[31Jan2025 00:14:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 00:15:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Sculk Cymbal]
+[31Jan2025 00:15:28.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 00:15:28.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 00:15:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 00:16:02.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 00:16:24.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Enderman
+[31Jan2025 00:17:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [The End... Again...]
+[31Jan2025 00:17:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 00:18:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 00:18:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 00:19:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Free the End]
+[31Jan2025 00:19:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Engineering Marvel]
+[31Jan2025 00:20:28.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 00:20:28.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
