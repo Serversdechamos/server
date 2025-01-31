@@ -6693,6 +6693,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-01-31 01:51:33 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/tools/barometer": {
     "criteria": {
       "has_redstone": "2025-01-31 01:47:55 +0000"
@@ -6810,6 +6816,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-31 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/chiseled_deepslate_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-31 01:59:55 +0000"
     },
     "done": true
   },

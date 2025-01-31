@@ -160,3 +160,37 @@
 [31Jan2025 01:51:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The Thing of Ancient Civilization]
 [31Jan2025 01:52:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [31Jan2025 01:52:22.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 01:54:30.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 01:54:36.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 01:56:15.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was doomed to fall
+[31Jan2025 01:56:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 01:56:44.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 01:56:47.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 01:56:53.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[31Jan2025 01:56:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[31Jan2025 01:57:24.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e57d2e6[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:53655) lost connection: Disconnected
+[31Jan2025 01:57:30.272] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71ed0424[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:43463) lost connection: Disconnected
+[31Jan2025 01:57:41.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:51991] logged in with entity id 52455 at (-3260.151650798978, -26.548588835676128, -3016.4771117999467)
+[31Jan2025 01:57:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[31Jan2025 01:57:41.234] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[31Jan2025 01:58:10.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 01:58:32.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 01:59:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was cursed by Maledictus
+[31Jan2025 01:59:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 01:59:33.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 01:59:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 01:59:40.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Maledictus
+[31Jan2025 01:59:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 01:59:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 01:59:55.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was cursed by Maledictus
+[31Jan2025 02:00:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 02:00:29.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 02:00:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Maledictus
+[31Jan2025 02:01:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was cursed by Maledictus 's Magic
+[31Jan2025 02:01:43.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 02:01:53.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was cursed by Maledictus 's Arrow
+[31Jan2025 02:02:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 02:02:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 02:02:38.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 02:02:49.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 02:02:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was cursed by Aptrgangr
