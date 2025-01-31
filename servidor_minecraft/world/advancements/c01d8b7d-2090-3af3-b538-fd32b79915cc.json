@@ -4737,6 +4737,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/lava_lamp": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 23:56:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-01-30 23:24:23 +0000"
@@ -4776,6 +4782,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 23:05:49 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/golden_bars": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 23:56:43 +0000"
     },
     "done": true
   },
