@@ -447,3 +447,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 22:34:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [31Jan2025 22:34:48.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [31Jan2025 22:34:48.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[31Jan2025 22:52:32.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c586a52[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:46337) lost connection: Disconnected
+[31Jan2025 22:52:57.779] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[31Jan2025 22:52:57.780] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@21669c87[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:46551): Unexpected custom data from client
+[31Jan2025 22:52:57.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21669c87[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:46551) lost connection: Unexpected custom data from client
