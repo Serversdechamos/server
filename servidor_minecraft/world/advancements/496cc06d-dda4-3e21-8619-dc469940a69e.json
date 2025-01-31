@@ -6686,9 +6686,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/void_worm_mandible": {
+    "criteria": {
+      "has_void_worm_mandible": "2025-01-31 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-01-31 01:37:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/void_worm_split": {
     "criteria": {
       "ex": "2025-01-31 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:magiblade": {
+    "criteria": {
+      "requirement": "2025-01-31 01:37:53 +0000"
     },
     "done": true
   },
@@ -6707,6 +6725,18 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-01-31 01:25:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/void_worm_eye": {
+    "criteria": {
+      "has_void_worm_eye": "2025-01-31 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-01-31 01:36:35 +0000"
     },
     "done": true
   },

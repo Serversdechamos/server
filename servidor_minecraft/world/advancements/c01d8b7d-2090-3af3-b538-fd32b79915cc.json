@@ -627,6 +627,7 @@
       "cooked_mutton": "2025-01-19 02:31:52 +0000",
       "sweet_berries": "2025-01-19 03:00:14 +0000",
       "cooked_beef": "2025-01-19 02:07:33 +0000",
+      "chorus_fruit": "2025-01-31 01:31:37 +0000",
       "beef": "2025-01-19 02:00:24 +0000",
       "baked_potato": "2025-01-19 22:42:12 +0000",
       "porkchop": "2025-01-20 02:00:44 +0000",
@@ -4697,6 +4698,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-31 01:32:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 23:05:49 +0000"
@@ -4775,9 +4782,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-01-31 01:32:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2025-01-30 23:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-31 01:30:36 +0000"
     },
     "done": true
   },
@@ -4808,6 +4827,12 @@
   "caverns_and_chasms:recipes/decorations/golden_bars": {
     "criteria": {
       "has_gold_ingot": "2025-01-30 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-31 01:32:37 +0000"
     },
     "done": true
   },
@@ -4994,6 +5019,12 @@
   "biomancy:recipes/biomancy/decomposing/nether_star": {
     "criteria": {
       "has_nether_star": "2025-01-31 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-31 01:30:36 +0000"
     },
     "done": true
   },
