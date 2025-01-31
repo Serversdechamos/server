@@ -3676,3 +3676,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 00:19:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Engineering Marvel]
 [31Jan2025 00:20:28.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 00:20:28.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 00:21:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has reached the goal [The End... Again...]
+[31Jan2025 00:21:48.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 blew up
+[31Jan2025 00:22:05.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 00:23:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
+[31Jan2025 00:24:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 00:25:21.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 went up in flames
+[31Jan2025 00:25:28.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 00:25:28.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 00:26:10.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 00:27:07.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported bengy_999 to MazeHero547]
+[31Jan2025 00:27:20.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 00:28:40.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -0.30009808321339193,9.370781431842701,5.04172827813227
+[31Jan2025 00:29:31.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[31Jan2025 00:29:40.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[31Jan2025 00:29:47.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> unete al meet
+[31Jan2025 00:30:28.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 00:30:28.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
