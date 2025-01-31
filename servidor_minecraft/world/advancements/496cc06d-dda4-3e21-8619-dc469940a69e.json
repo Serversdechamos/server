@@ -115,6 +115,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-31 23:44:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
@@ -345,6 +351,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-31 23:45:02 +0000",
       "minecraft:spider": "2025-01-31 23:21:14 +0000",
       "minecraft:zombie": "2025-01-31 23:16:39 +0000"
     },
@@ -509,6 +516,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-01-31 23:45:03 +0000"
     },
     "done": true
   },
@@ -770,6 +783,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-01-31 23:45:03 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-31 23:16:40 +0000"
@@ -833,6 +852,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_bones": {
+    "criteria": {
+      "has_bones": "2025-01-31 23:45:03 +0000"
     },
     "done": true
   },
@@ -1202,6 +1227,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-01-31 23:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
@@ -1373,6 +1404,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_string": "2025-01-31 23:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-31 23:45:03 +0000"
     },
     "done": true
   },
@@ -1601,6 +1638,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_string": "2025-01-31 23:21:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-01-31 23:42:55 +0000"
     },
     "done": true
   },

@@ -499,3 +499,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 23:43:49.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
 [31Jan2025 23:43:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Murmur
 [31Jan2025 23:44:07.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=105, z=70} BlockPos{x=33, y=104, z=71}
+[31Jan2025 23:44:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[31Jan2025 23:44:57.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Not Today, Thank You]
+[31Jan2025 23:45:22.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:57611] logged in with entity id 10194 at (23.5, 124.0, 82.5)
+[31Jan2025 23:45:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[31Jan2025 23:45:22.627] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[31Jan2025 23:46:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [A Terrifying Entrance]
+[31Jan2025 23:46:09.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:37911] logged in with entity id 10336 at (23.5, 131.0, 87.5)
+[31Jan2025 23:46:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[31Jan2025 23:46:09.699] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[31Jan2025 23:46:39.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=131, z=78}
+[31Jan2025 23:46:40.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=131, z=79}
+[31Jan2025 23:46:43.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=131, z=79}
+[31Jan2025 23:46:44.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=132, z=79}
+[31Jan2025 23:46:45.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=132, z=79}
+[31Jan2025 23:46:46.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=129, z=78}
+[31Jan2025 23:47:30.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=115, z=78}
+[31Jan2025 23:47:30.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=115, z=78}
+[31Jan2025 23:48:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [A Terrifying Entrance]
+[31Jan2025 23:48:41.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Haunted Knight
+[31Jan2025 23:48:47.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=127, z=78}
+[31Jan2025 23:49:12.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Gamerule keepInventory is now set to: true]
+[31Jan2025 23:49:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Haunted Knight
+[31Jan2025 23:49:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Haunted Knight
+[31Jan2025 23:50:31.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [A Seedy Place]
+[31Jan2025 23:50:32.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Tiger
+[31Jan2025 23:52:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Dungeon Now Loading]
+[31Jan2025 23:52:41.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -7.436104874069628,5.0,4.915029929739774
+[31Jan2025 23:52:44.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[31Jan2025 23:52:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Ice Bucket Challenge]
+[31Jan2025 23:52:57.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Stone Age]
+[31Jan2025 23:53:01.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[31Jan2025 23:53:18.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Getting an Upgrade]
+[31Jan2025 23:53:23.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7507ms or 150 ticks behind
+[31Jan2025 23:53:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Stone Age]
+[31Jan2025 23:53:45.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
+[31Jan2025 23:54:01.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 moved too quickly! -0.11605630574879289,-10.634408282773812,-0.1138402970955994
+[31Jan2025 23:54:04.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
