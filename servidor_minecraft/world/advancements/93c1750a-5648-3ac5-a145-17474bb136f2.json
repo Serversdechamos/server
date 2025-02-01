@@ -2288,7 +2288,19 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-01 00:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-01 00:48:12 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/golden_bucket": {
     "criteria": {
       "has_gold_block": "2025-02-01 00:48:12 +0000"
     },
@@ -2336,27 +2348,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_axe": "2025-02-01 00:50:10 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/food/bejeweled_apple": {
-    "criteria": {
-      "has_golden_apple": "2025-02-01 00:48:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:48:27 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/misc/golden_bucket": {
-    "criteria": {
-      "has_gold_block": "2025-02-01 00:48:12 +0000"
     },
     "done": true
   },
@@ -2378,12 +2372,6 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
-    "criteria": {
-      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:48:27 +0000"
@@ -2396,45 +2384,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
-    "criteria": {
-      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-02-01 00:47:01 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/piglin_head": {
-    "criteria": {
-      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_axe": "2025-02-01 00:50:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:48:27 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/player_head": {
-    "criteria": {
-      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/golden_apple": {
-    "criteria": {
-      "has_golden_apple": "2025-02-01 00:48:42 +0000"
     },
     "done": true
   },
@@ -2453,6 +2405,138 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:48:27 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/food/bejeweled_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-01 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-01 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/piglin_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/player_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-01 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-02-01 00:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-02-01 00:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/diamond": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-01 01:27:19 +0000"
     },
     "done": true
   },

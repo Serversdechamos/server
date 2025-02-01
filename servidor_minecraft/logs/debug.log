@@ -6792,3 +6792,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Feb2025 01:25:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
 [01Feb2025 01:25:28.375] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
 [01Feb2025 01:25:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [A Terrifying Entrance]
+[01Feb2025 01:26:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Guard
+[01Feb2025 01:26:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Guard
+[01Feb2025 01:26:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Guard
+[01Feb2025 01:27:17.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> [name:"Ancient city", x:-82, y:-34, z:315, dim:minecraft:overworld]
+[01Feb2025 01:27:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Diamonds!]
+[01Feb2025 01:27:25.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Feb2025 01:27:25.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Feb2025 01:28:04.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> [name:"Ancient city", x:-82, y:-34, z:315, dim:minecraft:overworld]
+[01Feb2025 01:28:39.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Sneak 100]
+[01Feb2025 01:28:44.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 suffocated in a wall
+[01Feb2025 01:28:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carniflex99xd> ç
+[01Feb2025 01:29:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by MazeHero547
+[01Feb2025 01:29:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd fell from a high place
+[01Feb2025 01:29:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sculk Cymbal]
+[01Feb2025 01:30:10.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Sculk Cymbal]
+[01Feb2025 01:30:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 suffocated in a wall
+[01Feb2025 01:30:49.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by aarincha_20160
+[01Feb2025 01:30:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was obliterated by a sonically-charged shriek
+[01Feb2025 01:31:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was doomed to fall by PhantomThief1210
+[01Feb2025 01:31:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was obliterated by a sonically-charged shriek
+[01Feb2025 01:31:54.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [Suit Up]
+[01Feb2025 01:32:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was obliterated by a sonically-charged shriek
+[01Feb2025 01:32:25.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Feb2025 01:32:25.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Feb2025 01:32:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was obliterated by a sonically-charged shriek
+[01Feb2025 01:32:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [Sneak 100]
+[01Feb2025 01:32:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:33:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was doomed to fall by Warden
+[01Feb2025 01:33:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:33:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:33:47.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:33:52.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Warden
+[01Feb2025 01:34:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:34:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:34:33.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:34:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:34:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:34:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:34:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sneak 100]
+[01Feb2025 01:34:55.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Warden
+[01Feb2025 01:34:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:34:57.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:35:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Warden
+[01Feb2025 01:35:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:35:31.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was burnt to a crisp whilst fighting Warden
+[01Feb2025 01:35:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:35:59.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:36:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:36:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:36:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden

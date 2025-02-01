@@ -1039,6 +1039,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-01 00:20:19 +0000",
       "minecraft:spider": "2025-02-01 00:19:09 +0000",
+      "caverns_and_chasms:peeper": "2025-02-01 01:22:33 +0000",
       "caverns_and_chasms:mime": "2025-02-01 00:45:19 +0000",
       "minecraft:zombie": "2025-02-01 00:19:57 +0000"
     },
@@ -2672,6 +2673,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-01 01:30:47 +0000",
       "enchanted_golden_apple": "2025-02-01 00:57:13 +0000"
     },
     "done": false
@@ -2748,9 +2750,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-02-01 01:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
     },
     "done": true
   },
@@ -2778,6 +2792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-01 01:16:26 +0000"
@@ -2802,6 +2822,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
       "spotted_by_peeper": "2025-02-01 01:21:39 +0000"
@@ -2820,15 +2846,39 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/diamond": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
     },
     "done": true
   },
