@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-01 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-02-01 00:17:31 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/transportation/azalea_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:47:36 +0000"
@@ -379,6 +391,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-02-01 00:11:59 +0000",
       "minecraft:zombie": "2025-02-01 00:04:03 +0000"
     },
     "done": false
@@ -560,6 +573,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:50:10 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-02-01 00:17:25 +0000"
     },
     "done": true
   },
@@ -821,6 +840,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-01 00:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:55:47 +0000"
@@ -932,6 +957,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-31 23:47:36 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-01 00:12:00 +0000"
     },
     "done": true
   },
@@ -1048,6 +1079,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:53:35 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/bejeweled_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-01 00:12:00 +0000"
     },
     "done": true
   },
@@ -1204,6 +1241,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-01 00:15:44 +0000"
     },
     "done": true
   },
@@ -1477,6 +1520,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-01 00:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-01-31 23:50:10 +0000"
@@ -1534,6 +1583,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-01-31 23:50:10 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-02-01 00:17:25 +0000"
     },
     "done": true
   },
@@ -2233,6 +2288,12 @@
       "bread": "2025-02-01 00:07:54 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-02-01 00:13:39 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {

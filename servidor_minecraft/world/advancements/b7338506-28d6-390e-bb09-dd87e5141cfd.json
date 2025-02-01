@@ -49,6 +49,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 00:19:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -97,6 +103,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -130,6 +142,18 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-01 00:10:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -181,9 +205,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-01 00:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-01 00:18:07 +0000"
     },
     "done": true
   },
@@ -193,9 +229,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-01 00:20:19 +0000",
+      "minecraft:spider": "2025-02-01 00:19:09 +0000",
+      "minecraft:zombie": "2025-02-01 00:19:57 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-02-01 00:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -211,9 +267,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -235,6 +303,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -250,6 +324,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -319,6 +399,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coal": "2025-02-01 00:15:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-01 00:10:03 +0000"
@@ -349,6 +435,24 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 00:19:01 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_abandoned_crypt": {
     "criteria": {
       "abandoned_crypt": "2025-02-01 00:07:46 +0000"
@@ -373,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-01 00:12:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -388,6 +498,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-01 00:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -427,9 +543,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/cobweb": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -463,9 +591,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -529,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
@@ -583,6 +729,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-01 00:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
@@ -592,6 +750,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -607,6 +771,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -619,9 +789,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
@@ -661,6 +849,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-01 00:15:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
@@ -697,9 +897,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-01 00:14:09 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/cobblestone_tiles_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-01 00:10:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 00:20:31 +0000"
     },
     "done": true
   },
@@ -733,9 +957,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 00:20:31 +0000"
     },
     "done": true
   },
@@ -766,6 +1002,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-01 00:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-01 00:14:09 +0000"
     },
     "done": true
   },
@@ -823,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
@@ -871,6 +1119,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-02-01 00:19:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
@@ -892,6 +1146,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_cherry_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 00:20:31 +0000"
     },
     "done": true
   },
@@ -934,6 +1194,18 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-02-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-01 00:19:11 +0000"
     },
     "done": true
   },
