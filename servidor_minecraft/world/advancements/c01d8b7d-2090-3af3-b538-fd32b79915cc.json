@@ -570,6 +570,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bison_fur": {
+    "criteria": {
+      "has_bison_fur": "2025-02-01 00:27:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:50:10 +0000"
@@ -2285,6 +2291,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-01 00:02:22 +0000",
+      "cooked_mutton": "2025-02-01 00:31:19 +0000",
       "bread": "2025-02-01 00:07:54 +0000"
     },
     "done": false
