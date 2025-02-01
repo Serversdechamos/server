@@ -813,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-31 23:54:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
@@ -1344,6 +1350,18 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_cherry_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-31 23:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-31 23:53:14 +0000"
     },
     "done": true
   },
