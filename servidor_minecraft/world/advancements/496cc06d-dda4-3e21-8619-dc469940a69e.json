@@ -1107,6 +1107,8 @@
       "minecraft:skeleton": "2025-01-31 23:45:02 +0000",
       "minecraft:spider": "2025-01-31 23:21:14 +0000",
       "minecraft:creeper": "2025-02-01 00:06:49 +0000",
+      "minecraft:witch": "2025-02-01 01:44:40 +0000",
+      "minecraft:enderman": "2025-02-01 01:52:25 +0000",
       "minecraft:zombie": "2025-01-31 23:16:39 +0000"
     },
     "done": false
@@ -2513,6 +2515,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-01 01:52:25 +0000"
     },
     "done": true
   },
