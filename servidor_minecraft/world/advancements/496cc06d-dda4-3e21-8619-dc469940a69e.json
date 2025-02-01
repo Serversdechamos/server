@@ -2317,6 +2317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-01 00:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:51:05 +0000"
@@ -2401,6 +2407,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-01 01:08:02 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/golden_bucket": {
+    "criteria": {
+      "has_gold_block": "2025-02-01 00:58:37 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/decorations/lava_lamp": {
     "criteria": {
       "has_gold_ingot": "2025-02-01 00:51:05 +0000"
@@ -2428,6 +2446,12 @@
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-02-01 00:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-01 01:02:21 +0000"
     },
     "done": true
   },
@@ -2482,6 +2506,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-01 00:51:03 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
+    "criteria": {
+      "has_mob_marrow": "2025-02-01 01:05:58 +0000"
     },
     "done": true
   },

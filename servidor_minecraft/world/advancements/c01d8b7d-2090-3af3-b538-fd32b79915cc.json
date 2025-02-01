@@ -2267,6 +2267,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-01 00:02:22 +0000",
       "cooked_mutton": "2025-02-01 00:31:19 +0000",
+      "cooked_beef": "2025-02-01 00:58:05 +0000",
       "baked_potato": "2025-02-01 00:38:42 +0000",
       "bread": "2025-02-01 00:07:54 +0000"
     },
@@ -2287,6 +2288,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-01 00:41:58 +0000",
+      "minecraft:spider": "2025-02-01 00:59:41 +0000",
       "minecraft:enderman": "2025-02-01 00:11:59 +0000",
       "minecraft:zombie": "2025-02-01 00:04:03 +0000"
     },
@@ -2508,9 +2510,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-01 00:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
     },
     "done": true
   },
@@ -2520,9 +2558,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-01 00:50:38 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/lava_lamp": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/golden_bars": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
     },
     "done": true
   },
@@ -2541,6 +2621,24 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-01 00:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/cobweb": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
     },
     "done": true
   },
@@ -2568,15 +2666,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-01 00:49:22 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-01 00:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-01 00:54:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-01 00:49:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 01:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 01:01:45 +0000"
     },
     "done": true
   },
@@ -2589,6 +2741,42 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-01 00:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-01 01:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-01 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-01 00:52:34 +0000"
     },
     "done": true
   },
