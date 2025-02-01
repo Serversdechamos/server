@@ -2696,6 +2696,30 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-01 01:12:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-01 01:12:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-01 01:12:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-01 01:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
@@ -2714,21 +2738,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-02-01 01:19:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/dirt": {
-    "criteria": {
-      "has_dirt": "2025-02-01 01:12:06 +0000"
     },
     "done": true
   },
@@ -2744,33 +2756,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-02-01 01:19:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-02-01 01:23:26 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-02-01 01:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-02-01 01:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-02-01 01:19:57 +0000"
     },
     "done": true
   },
@@ -2780,33 +2768,15 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-02-01 01:19:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-02-01 01:22:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-01 01:16:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-02-01 01:13:07 +0000"
     },
     "done": true
   },
@@ -2822,51 +2792,9 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-02-01 01:22:34 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:adventure/dont_move": {
-    "criteria": {
-      "spotted_by_peeper": "2025-02-01 01:21:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-02-01 01:12:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-02-01 01:21:56 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-02-01 01:23:26 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/diamond": {
     "criteria": {
       "has_diamond": "2025-02-01 01:16:26 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-01 01:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-02-01 01:22:34 +0000"
     },
     "done": true
   },
@@ -2876,15 +2804,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-01 01:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-01 01:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-01 01:19:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-01 01:19:57 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-02-01 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-01 01:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-01 01:23:26 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_backpack": "2025-02-01 01:12:51 +0000"
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-01 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 01:23:26 +0000"
     },
     "done": true
   },

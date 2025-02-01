@@ -359,3 +359,76 @@
 [01Feb2025 01:36:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
 [01Feb2025 01:36:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
 [01Feb2025 01:36:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:36:41.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[01Feb2025 01:36:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[01Feb2025 01:36:41.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01Feb2025 01:36:46.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:37:00.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [It Spreads]
+[01Feb2025 01:37:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[01Feb2025 01:37:14.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[01Feb2025 01:37:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was obliterated by a sonically-charged shriek
+[01Feb2025 01:37:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a
+[01Feb2025 01:37:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [Stone Age]
+[01Feb2025 01:38:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [Dungeon Now Loading]
+[01Feb2025 01:38:08.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.234.128.97:34743] logged in with entity id 63628 at (-52.5, -53.0, 312.5)
+[01Feb2025 01:38:08.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[01Feb2025 01:38:08.998] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[01Feb2025 01:38:12.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:38:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:38:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava to escape Warden
+[01Feb2025 01:39:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[01Feb2025 01:39:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:39:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:39:23.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[01Feb2025 01:39:24.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[01Feb2025 01:39:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[01Feb2025 01:39:30.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.234.128.97:39341] logged in with entity id 64015 at (-52.5, -53.0, 312.5)
+[01Feb2025 01:39:30.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[01Feb2025 01:39:30.419] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[01Feb2025 01:39:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:40:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:40:26.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:40:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:41:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sweet Dreams]
+[01Feb2025 01:41:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:41:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> espera que se me laguio la compu
+[01Feb2025 01:41:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava to escape PhantomThief1210
+[01Feb2025 01:41:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:41:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Warden
+[01Feb2025 01:41:52.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:41:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:42:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[01Feb2025 01:42:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:42:27.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:42:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:43:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by Warden
+[01Feb2025 01:43:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:43:30.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[01Feb2025 01:43:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[01Feb2025 01:43:43.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:43:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:43:56.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava
+[01Feb2025 01:43:57.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=120, z=81}
+[01Feb2025 01:43:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:44:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava
+[01Feb2025 01:44:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:44:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was obliterated by a sonically-charged shriek
+[01Feb2025 01:44:39.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava
+[01Feb2025 01:44:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[01Feb2025 01:44:53.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was obliterated by a sonically-charged shriek
+[01Feb2025 01:44:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava
+[01Feb2025 01:44:56.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=20, y=127, z=85}
+[01Feb2025 01:45:22.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6931371[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:48231) lost connection: Disconnected
+[01Feb2025 01:45:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd burned to death
+[01Feb2025 01:45:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was obliterated by a sonically-charged shriek
+[01Feb2025 01:45:35.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=143, z=88}
+[01Feb2025 01:45:42.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[01Feb2025 01:45:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd tried to swim in lava
+[01Feb2025 01:45:48.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:45:49.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@624932a5[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:49525) lost connection: Disconnected
+[01Feb2025 01:45:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Warden
+[01Feb2025 01:46:05.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[01Feb2025 01:46:21.104] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@521b50c8[id=<null>,name=bengy_999,properties={},legacy=false] (/127.21.4.52:52273) lost connection: Disconnected
+[01Feb2025 01:46:28.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:48547] logged in with entity id 68161 at (31.095120249682346, 95.5625, 42.55764103059635)
+[01Feb2025 01:46:28.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[01Feb2025 01:46:28.702] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
