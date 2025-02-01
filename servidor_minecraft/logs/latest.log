@@ -277,3 +277,39 @@
 [01Feb2025 01:14:10.643] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
 [01Feb2025 01:14:10.645] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@248e497[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:55659): Unexpected custom data from client
 [01Feb2025 01:14:10.693] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@248e497[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:55659) lost connection: Unexpected custom data from client
+[01Feb2025 01:16:16.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d43e9d1[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:60933) lost connection: Disconnected
+[01Feb2025 01:16:21.356] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Feb2025 01:16:21.356] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@32b72c4b[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:50685): Unexpected custom data from client
+[01Feb2025 01:16:21.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32b72c4b[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:50685) lost connection: Unexpected custom data from client
+[01Feb2025 01:16:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Diamonds!]
+[01Feb2025 01:18:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was shot by Skeleton
+[01Feb2025 01:18:41.394] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Feb2025 01:18:41.394] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6fcfef32[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:37633): Unexpected custom data from client
+[01Feb2025 01:18:41.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fcfef32[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:37633) lost connection: Unexpected custom data from client
+[01Feb2025 01:19:50.342] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Feb2025 01:19:50.343] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@74d6fc4d[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:37073): Unexpected custom data from client
+[01Feb2025 01:19:50.350] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74d6fc4d[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:37073) lost connection: Unexpected custom data from client
+[01Feb2025 01:20:37.390] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Feb2025 01:20:37.391] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@11052c5b[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:56139): Unexpected custom data from client
+[01Feb2025 01:20:37.401] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11052c5b[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:56139) lost connection: Unexpected custom data from client
+[01Feb2025 01:20:57.133] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Feb2025 01:20:57.134] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7863a90a[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:55193): Unexpected custom data from client
+[01Feb2025 01:20:57.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7863a90a[id=<null>,name=carniflex99xd,properties={},legacy=false] (/127.179.196.12:55193) lost connection: Unexpected custom data from client
+[01Feb2025 01:21:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Don't. Move.]
+[01Feb2025 01:21:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Sneak 100]
+[01Feb2025 01:23:14.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 4.10235364047287,-0.5625,-9.315457859396417
+[01Feb2025 01:23:26.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Amateur Archaeologist]
+[01Feb2025 01:23:27.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[01Feb2025 01:23:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[01Feb2025 01:23:58.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:51499] logged in with entity id 57945 at (36.58719323986825, 95.0, 32.81147830694881)
+[01Feb2025 01:23:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[01Feb2025 01:23:58.402] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[01Feb2025 01:24:00.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carniflex99xd[/127.179.196.12:55565] logged in with entity id 57953 at (21.5, 124.0, 82.5)
+[01Feb2025 01:24:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd joined the game
+[01Feb2025 01:24:00.260] [Server thread/INFO] [Jade/]: Syncing config to carniflex99xd (d2bd94c8-2c52-3ada-8f01-d12728612287)
+[01Feb2025 01:24:24.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [Alex's Mobs]
+[01Feb2025 01:25:02.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd was slain by bengy_999
+[01Feb2025 01:25:28.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aarincha_20160[/127.21.4.52:47095] logged in with entity id 58427 at (29.855244097886935, 95.0, 39.322328059049624)
+[01Feb2025 01:25:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 joined the game
+[01Feb2025 01:25:28.375] [Server thread/INFO] [Jade/]: Syncing config to aarincha_20160 (93c1750a-5648-3ac5-a145-17474bb136f2)
+[01Feb2025 01:25:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carniflex99xd has made the advancement [A Terrifying Entrance]
