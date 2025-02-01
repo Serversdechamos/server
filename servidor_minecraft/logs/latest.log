@@ -15,3 +15,55 @@
 [01Feb2025 00:03:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
 [01Feb2025 00:03:59.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
 [01Feb2025 00:04:03.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Monster Hunter]
+[01Feb2025 00:04:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
+[01Feb2025 00:05:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[01Feb2025 00:05:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 tried to swim in lava
+[01Feb2025 00:05:48.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Undead Guard]
+[01Feb2025 00:06:02.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=96, z=62} BlockPos{x=25, y=96, z=64}
+[01Feb2025 00:06:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:06:11.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.234.128.97:49459] logged in with entity id 21462 at (8.440506870644242, 149.0, 93.96469945954073)
+[01Feb2025 00:06:11.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[01Feb2025 00:06:11.854] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[01Feb2025 00:06:47.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=144, z=90}
+[01Feb2025 00:06:58.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=145, z=90}
+[01Feb2025 00:06:58.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Acquire Hardware]
+[01Feb2025 00:07:00.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=145, z=90}
+[01Feb2025 00:07:19.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Suit Up]
+[01Feb2025 00:07:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:07:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [A Terrifying Entrance]
+[01Feb2025 00:07:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Haunted Knight
+[01Feb2025 00:07:55.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=139, z=84}
+[01Feb2025 00:08:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Iron Golem
+[01Feb2025 00:08:14.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Living Armor]
+[01Feb2025 00:08:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:08:25.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Haunted Knight
+[01Feb2025 00:08:32.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[01Feb2025 00:08:34.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:09:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Guard
+[01Feb2025 00:09:22.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Haunted Knight
+[01Feb2025 00:09:23.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=120, z=81}
+[01Feb2025 00:09:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:09:39.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Haunted Knight
+[01Feb2025 00:09:41.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=136, z=86}
+[01Feb2025 00:09:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[01Feb2025 00:09:58.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 suffocated in a wall
+[01Feb2025 00:10:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:10:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Posessed Paladin
+[01Feb2025 00:10:36.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=119, z=77}
+[01Feb2025 00:10:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Coppin' Copper]
+[01Feb2025 00:10:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Stone Age]
+[01Feb2025 00:11:41.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 00:11:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Enderman
+[01Feb2025 00:11:51.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=134, z=81}
+[01Feb2025 00:12:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by bengy_999
+[01Feb2025 00:12:29.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 00:12:29.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by bengy_999
+[01Feb2025 00:13:06.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Haunted Knight
+[01Feb2025 00:13:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Haunted Knight
+[01Feb2025 00:13:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Haunted Knight
+[01Feb2025 00:13:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 00:13:39.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Living Armor]
+[01Feb2025 00:13:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Posessed Paladin
+[01Feb2025 00:14:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 00:14:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Getting an Upgrade]
+[01Feb2025 00:14:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Posessed Paladin

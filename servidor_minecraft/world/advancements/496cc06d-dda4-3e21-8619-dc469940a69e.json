@@ -33,7 +33,9 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-31 22:16:04 +0000",
       "minecraft:cherry_grove": "2025-01-31 22:15:48 +0000",
-      "minecraft:dripstone_caves": "2025-01-31 23:11:14 +0000"
+      "minecraft:river": "2025-02-01 00:03:12 +0000",
+      "minecraft:dripstone_caves": "2025-01-31 23:11:14 +0000",
+      "minecraft:plains": "2025-02-01 00:02:46 +0000"
     },
     "done": false
   },
@@ -52,6 +54,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/tools/tuning_fork": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -121,6 +129,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
@@ -154,6 +168,12 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -208,6 +228,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -301,6 +327,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
@@ -349,10 +381,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-31 23:45:02 +0000",
       "minecraft:spider": "2025-01-31 23:21:14 +0000",
+      "minecraft:creeper": "2025-02-01 00:06:49 +0000",
       "minecraft:zombie": "2025-01-31 23:16:39 +0000"
     },
     "done": false
@@ -384,6 +423,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-01-31 23:09:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -519,6 +564,12 @@
     },
     "done": true
   },
+  "caverns_and_chasms:adventure/smelt_copper": {
+    "criteria": {
+      "copper": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-01-31 23:45:03 +0000"
@@ -585,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
@@ -600,6 +657,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -627,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-01-31 23:10:33 +0000"
@@ -636,6 +705,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -690,6 +765,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -789,6 +870,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-31 23:16:40 +0000"
@@ -885,6 +972,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-02-01 00:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-01-31 23:21:16 +0000"
@@ -912,6 +1005,18 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 00:06:50 +0000"
     },
     "done": true
   },
@@ -1014,6 +1119,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-01-31 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -1131,6 +1242,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
@@ -1194,6 +1311,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:11:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -1461,6 +1584,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
@@ -1641,6 +1770,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/cobblestone_tiles_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:11:18 +0000"
@@ -1665,9 +1800,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/floodlight": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 00:06:50 +0000"
     },
     "done": true
   },
@@ -1686,6 +1833,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-01-31 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -1815,9 +1968,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 23:10:33 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/toolbox": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
@@ -1923,6 +2088,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-01 00:10:39 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-31 23:11:18 +0000"
@@ -2002,6 +2173,12 @@
     },
     "done": false
   },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-02-01 00:08:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-01-31 23:10:29 +0000"
@@ -2011,6 +2188,12 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_wheat": {
     "criteria": {
       "has_wheat": "2025-01-31 23:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 00:06:50 +0000"
     },
     "done": true
   },
@@ -2107,6 +2290,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-02-01 00:10:39 +0000"
     },
     "done": true
   },
